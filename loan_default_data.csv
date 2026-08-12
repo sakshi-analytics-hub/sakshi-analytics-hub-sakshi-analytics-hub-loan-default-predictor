@@ -1,0 +1,1201 @@
+Age,Annual_Income,Employment_Type,Education,Loan_Amount,Credit_Score,Purpose_Description,Default
+24,133667.0,Self-Employed,Graduate,342230,675.0,starting a small business selling handmade crafts,0
+55,79463.0,Self-Employed,Not Graduate,146983,412.0,buying a new car for daily commute,0
+49,147943.0,Business,Not Graduate,135905,338.0,planning to expand my small business and buy new equipment,0
+40,117793.0,Self-Employed,Not Graduate,69362,,want to pay off medical bills after a family emergency,0
+40,102869.0,Salaried,Not Graduate,7080,766.0,buying a new car for daily commute,0
+58,136949.0,Salaried,Graduate,253098,358.0,I need this loan to renovate my home and fix the roof,1
+24,84535.0,Self-Employed,Graduate,493445,351.0,looking to consolidate credit card debt into one payment,0
+51,112293.0,Salaried,Graduate,113923,637.0,buying a new car for daily commute,0
+29,53438.0,Salaried,Graduate,222879,315.0,buying a new car for daily commute,0
+25,145033.0,Salaried,Not Graduate,468097,710.0,debt consolidation to reduce monthly payments,0
+44,99154.0,Self-Employed,Not Graduate,387294,803.0,purchasing new machinery for my shop,0
+63,120570.0,Business,Not Graduate,6981,713.0,home renovation and repair work needed urgently,0
+53,77199.0,Self-Employed,Graduate,252795,426.0,I need this loan to renovate my home and fix the roof,0
+54,132018.0,Salaried,Graduate,75882,404.0,funding for my daughter wedding expenses,0
+52,25014.0,Salaried,Graduate,127274,674.0,home renovation and repair work needed urgently,0
+55,30404.0,Salaried,Graduate,127005,333.0,emergency funds needed for unexpected medical procedure,0
+43,83460.0,Salaried,Graduate,308176,595.0,buying a new car for daily commute,0
+26,113875.0,Self-Employed,Graduate,103483,546.0,buying a new car for daily commute,0
+57,124244.0,Self-Employed,Graduate,129673,709.0,funding for my daughter wedding expenses,0
+40,74411.0,Salaried,Not Graduate,116760,411.0,starting a small business selling handmade crafts,0
+43,102705.0,Salaried,Graduate,181658,719.0,want to pay off medical bills after a family emergency,0
+37,89669.0,Salaried,Graduate,329743,684.0,starting a small business selling handmade crafts,0
+29,144805.0,Business,Not Graduate,202983,431.0,want to pay off medical bills after a family emergency,0
+61,103303.0,Self-Employed,Graduate,167118,496.0,home renovation and repair work needed urgently,0
+55,71273.0,Salaried,Not Graduate,261213,336.0,traveling abroad for higher education,0
+49,145925.0,Business,Not Graduate,309437,547.0,starting a small business selling handmade crafts,0
+38,29479.0,Salaried,Graduate,12602,443.0,funding for my daughter wedding expenses,0
+57,147918.0,Salaried,Not Graduate,445677,362.0,purchasing new machinery for my shop,0
+44,35791.0,Business,Graduate,458633,607.0,emergency funds needed for unexpected medical procedure,0
+40,53910.0,Salaried,Not Graduate,303265,612.0,buying a new car for daily commute,0
+40,125898.0,Salaried,Not Graduate,289428,347.0,I need this loan to renovate my home and fix the roof,0
+30,114056.0,Self-Employed,Not Graduate,348793,402.0,I need this loan to renovate my home and fix the roof,0
+25,145997.0,Salaried,Graduate,223228,345.0,want to pay off medical bills after a family emergency,0
+45,116247.0,Self-Employed,Graduate,185924,673.0,want to pay off medical bills after a family emergency,0
+60,100996.0,Salaried,Not Graduate,179581,485.0,home renovation and repair work needed urgently,0
+23,61776.0,Salaried,Not Graduate,84070,339.0,starting a small business selling handmade crafts,0
+58,15636.0,Salaried,Graduate,421378,405.0,purchasing new machinery for my shop,1
+57,31722.0,Salaried,Not Graduate,163689,836.0,starting a small business selling handmade crafts,0
+33,55199.0,Salaried,Graduate,145778,440.0,traveling abroad for higher education,0
+48,20527.0,Salaried,Not Graduate,482319,676.0,starting a small business selling handmade crafts,0
+28,83604.0,Business,Not Graduate,255819,557.0,funding for my daughter wedding expenses,0
+54,119941.0,Salaried,Graduate,312796,399.0,home renovation and repair work needed urgently,0
+51,145039.0,Salaried,Graduate,126495,469.0,buying a new car for daily commute,0
+36,81109.0,Salaried,Graduate,142368,307.0,looking to consolidate credit card debt into one payment,0
+23,133125.0,Salaried,Graduate,365527,710.0,buying a new car for daily commute,0
+63,148047.0,Salaried,Graduate,228203,483.0,emergency funds needed for unexpected medical procedure,0
+40,131076.0,Self-Employed,Graduate,78133,,funding for my daughter wedding expenses,0
+60,77771.0,Salaried,Graduate,418578,,home renovation and repair work needed urgently,0
+50,58910.0,Business,Graduate,204366,753.0,purchasing new machinery for my shop,0
+55,147018.0,Business,Graduate,335879,420.0,funding for my daughter wedding expenses,1
+54,47658.0,Salaried,Not Graduate,173930,611.0,looking to consolidate credit card debt into one payment,0
+29,70562.0,Salaried,Not Graduate,282523,,funding for my daughter wedding expenses,0
+37,24994.0,Salaried,Graduate,388937,692.0,traveling abroad for higher education,0
+41,122147.0,Self-Employed,Not Graduate,443155,631.0,want to pay off medical bills after a family emergency,0
+42,102728.0,Salaried,Graduate,107635,788.0,purchasing new machinery for my shop,0
+22,26450.0,Business,Graduate,337857,,funding for my daughter wedding expenses,1
+45,44960.0,Self-Employed,Graduate,457746,829.0,traveling abroad for higher education,0
+27,89987.0,Business,Graduate,323151,606.0,debt consolidation to reduce monthly payments,0
+53,87955.0,Salaried,Graduate,75829,525.0,debt consolidation to reduce monthly payments,0
+51,123278.0,Business,Graduate,98935,440.0,traveling abroad for higher education,0
+61,50923.0,Salaried,Not Graduate,105387,709.0,want to pay off medical bills after a family emergency,0
+53,139834.0,Salaried,Not Graduate,57662,836.0,emergency funds needed for unexpected medical procedure,0
+37,75003.0,Salaried,Graduate,378097,679.0,planning to expand my small business and buy new equipment,0
+63,126048.0,Business,Graduate,482745,318.0,looking to consolidate credit card debt into one payment,0
+39,47181.0,Self-Employed,Graduate,260855,557.0,I need this loan to renovate my home and fix the roof,1
+35,19991.0,Business,Not Graduate,301434,702.0,home renovation and repair work needed urgently,0
+60,22432.0,Salaried,Not Graduate,387981,518.0,emergency funds needed for unexpected medical procedure,0
+37,65314.0,Business,Graduate,210763,725.0,home renovation and repair work needed urgently,0
+24,143675.0,Salaried,Graduate,238866,689.0,want to pay off medical bills after a family emergency,0
+41,21574.0,Salaried,Graduate,296565,336.0,looking to consolidate credit card debt into one payment,0
+56,64812.0,Business,Graduate,155798,606.0,home renovation and repair work needed urgently,0
+29,29753.0,Salaried,Not Graduate,35596,394.0,debt consolidation to reduce monthly payments,0
+41,140761.0,Salaried,Not Graduate,286047,567.0,traveling abroad for higher education,0
+26,106166.0,Self-Employed,Graduate,411953,511.0,I need this loan to renovate my home and fix the roof,0
+51,117963.0,Salaried,Graduate,41247,743.0,funding for my daughter wedding expenses,0
+41,111289.0,Salaried,Graduate,112239,777.0,I need this loan to renovate my home and fix the roof,0
+35,103698.0,Salaried,Graduate,135181,553.0,debt consolidation to reduce monthly payments,0
+30,119452.0,Salaried,Graduate,403250,595.0,planning to expand my small business and buy new equipment,0
+45,16096.0,Business,Graduate,254776,644.0,debt consolidation to reduce monthly payments,0
+50,131836.0,Self-Employed,Not Graduate,269517,660.0,planning to expand my small business and buy new equipment,0
+62,114881.0,Salaried,Graduate,324405,,I need this loan to renovate my home and fix the roof,0
+40,114823.0,Salaried,Graduate,141903,730.0,traveling abroad for higher education,0
+28,68113.0,Salaried,Graduate,358205,840.0,buying a new car for daily commute,0
+57,123117.0,Self-Employed,Graduate,19953,755.0,buying a new car for daily commute,0
+48,66545.0,Business,Not Graduate,61291,374.0,emergency funds needed for unexpected medical procedure,1
+51,21610.0,Business,Graduate,408837,561.0,looking to consolidate credit card debt into one payment,1
+25,137555.0,Salaried,Not Graduate,330811,553.0,home renovation and repair work needed urgently,0
+34,46662.0,Salaried,Not Graduate,92347,579.0,buying a new car for daily commute,0
+54,,Salaried,Graduate,222183,590.0,looking to consolidate credit card debt into one payment,0
+57,98956.0,Self-Employed,Graduate,30643,694.0,funding for my daughter wedding expenses,0
+40,46543.0,Salaried,Not Graduate,337565,531.0,I need this loan to renovate my home and fix the roof,0
+56,130846.0,Self-Employed,Graduate,379159,444.0,looking to consolidate credit card debt into one payment,0
+58,,Self-Employed,Graduate,142807,551.0,emergency funds needed for unexpected medical procedure,0
+38,15607.0,Salaried,Not Graduate,178271,769.0,planning to expand my small business and buy new equipment,0
+60,143481.0,Salaried,Not Graduate,122224,471.0,planning to expand my small business and buy new equipment,1
+33,84474.0,Salaried,Graduate,197720,311.0,emergency funds needed for unexpected medical procedure,0
+31,50501.0,Salaried,Graduate,139795,836.0,buying a new car for daily commute,0
+51,106433.0,Salaried,Graduate,127298,407.0,planning to expand my small business and buy new equipment,0
+49,86632.0,Self-Employed,Not Graduate,217952,631.0,home renovation and repair work needed urgently,0
+27,18996.0,Salaried,Graduate,430293,740.0,debt consolidation to reduce monthly payments,0
+57,117552.0,Salaried,Graduate,382553,450.0,I need this loan to renovate my home and fix the roof,1
+29,69183.0,Self-Employed,Not Graduate,152178,487.0,want to pay off medical bills after a family emergency,1
+56,109475.0,Self-Employed,Not Graduate,471708,454.0,funding for my daughter wedding expenses,1
+21,135910.0,Salaried,Not Graduate,109045,382.0,home renovation and repair work needed urgently,1
+56,97432.0,Business,Graduate,455816,384.0,I need this loan to renovate my home and fix the roof,0
+55,105667.0,Business,Graduate,158078,402.0,debt consolidation to reduce monthly payments,0
+55,49377.0,Self-Employed,Not Graduate,272430,551.0,looking to consolidate credit card debt into one payment,0
+50,47083.0,Self-Employed,Not Graduate,105559,591.0,planning to expand my small business and buy new equipment,0
+41,71025.0,Salaried,Graduate,382202,,traveling abroad for higher education,1
+52,130125.0,Business,Graduate,162239,765.0,planning to expand my small business and buy new equipment,0
+33,85766.0,Salaried,Graduate,436922,671.0,planning to expand my small business and buy new equipment,0
+55,61984.0,Business,Graduate,46053,338.0,purchasing new machinery for my shop,0
+45,120247.0,Self-Employed,Graduate,253490,763.0,starting a small business selling handmade crafts,0
+41,130201.0,Salaried,Graduate,83472,316.0,buying a new car for daily commute,1
+43,136842.0,Salaried,Graduate,445033,608.0,home renovation and repair work needed urgently,0
+46,55357.0,Self-Employed,Not Graduate,211441,555.0,emergency funds needed for unexpected medical procedure,0
+22,110801.0,Self-Employed,Graduate,338864,576.0,emergency funds needed for unexpected medical procedure,0
+27,94693.0,Salaried,Graduate,440336,825.0,I need this loan to renovate my home and fix the roof,0
+31,75611.0,Self-Employed,Graduate,270140,809.0,starting a small business selling handmade crafts,0
+26,68586.0,Business,Graduate,33358,453.0,looking to consolidate credit card debt into one payment,0
+40,30464.0,Salaried,Graduate,114257,618.0,debt consolidation to reduce monthly payments,0
+50,52101.0,Salaried,Graduate,110273,827.0,starting a small business selling handmade crafts,0
+49,,Salaried,Graduate,457520,700.0,planning to expand my small business and buy new equipment,0
+41,134685.0,Self-Employed,Graduate,454631,,traveling abroad for higher education,0
+58,131956.0,Salaried,Not Graduate,241095,539.0,looking to consolidate credit card debt into one payment,0
+45,40325.0,Business,Graduate,445557,455.0,looking to consolidate credit card debt into one payment,0
+24,106708.0,Salaried,Not Graduate,126777,580.0,purchasing new machinery for my shop,0
+54,26449.0,Self-Employed,Not Graduate,341328,749.0,debt consolidation to reduce monthly payments,0
+46,106126.0,Salaried,Not Graduate,199007,810.0,traveling abroad for higher education,0
+48,61160.0,Salaried,Graduate,124034,677.0,emergency funds needed for unexpected medical procedure,0
+45,75729.0,Self-Employed,Graduate,128755,688.0,traveling abroad for higher education,0
+45,111881.0,Salaried,Graduate,212806,581.0,planning to expand my small business and buy new equipment,0
+24,72359.0,Salaried,Not Graduate,173130,475.0,emergency funds needed for unexpected medical procedure,0
+45,124003.0,Business,Graduate,109554,532.0,looking to consolidate credit card debt into one payment,0
+55,87033.0,Business,Not Graduate,170402,573.0,funding for my daughter wedding expenses,0
+34,149830.0,Business,Graduate,68651,748.0,want to pay off medical bills after a family emergency,0
+47,101162.0,Salaried,Not Graduate,484986,605.0,want to pay off medical bills after a family emergency,0
+22,55008.0,Self-Employed,Graduate,193099,736.0,buying a new car for daily commute,0
+36,119663.0,Business,Graduate,58154,,purchasing new machinery for my shop,0
+40,70072.0,Salaried,Graduate,290031,716.0,emergency funds needed for unexpected medical procedure,0
+64,87112.0,Salaried,Graduate,442144,578.0,funding for my daughter wedding expenses,0
+30,33470.0,Business,Graduate,183166,849.0,buying a new car for daily commute,0
+33,31111.0,Salaried,Graduate,423394,559.0,starting a small business selling handmade crafts,0
+38,92607.0,Self-Employed,Graduate,307358,563.0,want to pay off medical bills after a family emergency,0
+64,40203.0,Business,Graduate,370929,370.0,starting a small business selling handmade crafts,0
+58,149673.0,Self-Employed,Graduate,151646,743.0,home renovation and repair work needed urgently,0
+22,130515.0,Salaried,Not Graduate,23282,685.0,want to pay off medical bills after a family emergency,0
+31,109618.0,Salaried,Graduate,176196,774.0,emergency funds needed for unexpected medical procedure,0
+57,114184.0,Salaried,Graduate,462606,351.0,home renovation and repair work needed urgently,0
+23,95353.0,Salaried,Graduate,396383,416.0,starting a small business selling handmade crafts,0
+58,23139.0,Self-Employed,Graduate,393159,782.0,looking to consolidate credit card debt into one payment,0
+33,67969.0,Business,Graduate,439765,,starting a small business selling handmade crafts,0
+61,81933.0,Salaried,Graduate,189766,579.0,debt consolidation to reduce monthly payments,0
+33,138565.0,Salaried,Not Graduate,164406,522.0,want to pay off medical bills after a family emergency,0
+40,44631.0,Business,Graduate,462971,816.0,starting a small business selling handmade crafts,0
+50,82083.0,Salaried,Not Graduate,287900,771.0,home renovation and repair work needed urgently,1
+26,61448.0,Salaried,Graduate,152489,793.0,looking to consolidate credit card debt into one payment,0
+45,33139.0,Salaried,Graduate,142690,459.0,funding for my daughter wedding expenses,1
+43,28907.0,Self-Employed,Graduate,439253,623.0,traveling abroad for higher education,0
+55,64326.0,Salaried,Graduate,31400,685.0,funding for my daughter wedding expenses,0
+64,26126.0,Self-Employed,Graduate,35538,832.0,emergency funds needed for unexpected medical procedure,0
+50,24067.0,Salaried,Not Graduate,370239,304.0,planning to expand my small business and buy new equipment,0
+39,62367.0,Self-Employed,Not Graduate,5668,837.0,purchasing new machinery for my shop,0
+38,42267.0,Salaried,Graduate,89646,495.0,emergency funds needed for unexpected medical procedure,0
+39,89899.0,Salaried,Graduate,495363,370.0,debt consolidation to reduce monthly payments,0
+56,17385.0,Salaried,Graduate,215727,638.0,emergency funds needed for unexpected medical procedure,0
+35,55744.0,Salaried,Graduate,365193,729.0,funding for my daughter wedding expenses,0
+28,76192.0,Salaried,Graduate,246087,371.0,funding for my daughter wedding expenses,0
+35,145024.0,Salaried,Not Graduate,49832,322.0,home renovation and repair work needed urgently,1
+21,100662.0,Salaried,Not Graduate,96313,793.0,traveling abroad for higher education,0
+25,133897.0,Salaried,Graduate,381744,813.0,planning to expand my small business and buy new equipment,0
+24,61344.0,Business,Graduate,51804,385.0,traveling abroad for higher education,1
+54,75710.0,Salaried,Not Graduate,299335,797.0,debt consolidation to reduce monthly payments,0
+52,71751.0,Business,Not Graduate,177266,800.0,planning to expand my small business and buy new equipment,0
+51,134798.0,Business,Graduate,188297,848.0,planning to expand my small business and buy new equipment,0
+41,144493.0,Salaried,Graduate,476381,419.0,home renovation and repair work needed urgently,1
+52,144915.0,Self-Employed,Not Graduate,304938,618.0,traveling abroad for higher education,0
+28,,Business,Not Graduate,309492,846.0,funding for my daughter wedding expenses,0
+60,82920.0,Self-Employed,Graduate,178426,796.0,emergency funds needed for unexpected medical procedure,0
+43,88015.0,Salaried,Not Graduate,193798,632.0,purchasing new machinery for my shop,0
+62,147368.0,Salaried,Graduate,344456,408.0,looking to consolidate credit card debt into one payment,0
+27,53413.0,Salaried,Not Graduate,24260,346.0,want to pay off medical bills after a family emergency,1
+42,61805.0,Salaried,Graduate,122464,442.0,purchasing new machinery for my shop,0
+51,136094.0,Business,Graduate,302135,335.0,looking to consolidate credit card debt into one payment,0
+42,67153.0,Business,Graduate,313650,407.0,buying a new car for daily commute,1
+40,46738.0,Salaried,Graduate,50667,341.0,buying a new car for daily commute,0
+28,90663.0,Self-Employed,Graduate,394974,719.0,starting a small business selling handmade crafts,0
+37,58921.0,Salaried,Graduate,273559,624.0,looking to consolidate credit card debt into one payment,0
+31,135267.0,Business,Graduate,122668,584.0,home renovation and repair work needed urgently,0
+34,137723.0,Salaried,Graduate,377215,745.0,home renovation and repair work needed urgently,0
+51,56311.0,Business,Not Graduate,495484,525.0,want to pay off medical bills after a family emergency,1
+48,86488.0,Business,Not Graduate,214674,521.0,buying a new car for daily commute,0
+47,147838.0,Salaried,Not Graduate,145305,413.0,I need this loan to renovate my home and fix the roof,0
+36,115212.0,Salaried,Graduate,153208,544.0,want to pay off medical bills after a family emergency,1
+63,44109.0,Business,Graduate,298338,395.0,purchasing new machinery for my shop,1
+24,94750.0,Salaried,Not Graduate,28455,624.0,starting a small business selling handmade crafts,0
+36,98685.0,Salaried,Graduate,244297,848.0,emergency funds needed for unexpected medical procedure,0
+26,103214.0,Business,Graduate,17265,593.0,traveling abroad for higher education,0
+35,18376.0,Self-Employed,Not Graduate,24097,464.0,home renovation and repair work needed urgently,0
+63,55416.0,Salaried,Not Graduate,217863,678.0,debt consolidation to reduce monthly payments,0
+37,130372.0,Salaried,Graduate,374029,751.0,home renovation and repair work needed urgently,0
+60,47585.0,Salaried,Not Graduate,442255,559.0,buying a new car for daily commute,0
+42,55458.0,Business,Graduate,48379,437.0,emergency funds needed for unexpected medical procedure,0
+51,58536.0,Salaried,Not Graduate,125811,692.0,looking to consolidate credit card debt into one payment,1
+41,38947.0,Salaried,Graduate,213722,402.0,traveling abroad for higher education,1
+32,35984.0,Salaried,Graduate,289157,848.0,want to pay off medical bills after a family emergency,0
+54,61847.0,Business,Graduate,493589,474.0,traveling abroad for higher education,1
+63,133032.0,Salaried,Graduate,343731,492.0,traveling abroad for higher education,0
+32,15207.0,Business,Not Graduate,271488,699.0,planning to expand my small business and buy new equipment,0
+55,53238.0,Self-Employed,Graduate,35110,306.0,home renovation and repair work needed urgently,0
+32,23184.0,Business,Not Graduate,45003,411.0,purchasing new machinery for my shop,0
+52,90801.0,Business,Not Graduate,80784,369.0,starting a small business selling handmade crafts,0
+55,48831.0,Business,Graduate,332090,515.0,funding for my daughter wedding expenses,1
+40,121916.0,Business,Not Graduate,168982,604.0,traveling abroad for higher education,0
+53,93977.0,Salaried,Graduate,124266,398.0,starting a small business selling handmade crafts,0
+32,120816.0,Self-Employed,Graduate,336696,489.0,planning to expand my small business and buy new equipment,0
+24,100712.0,Salaried,Graduate,408606,724.0,want to pay off medical bills after a family emergency,0
+25,,Salaried,Not Graduate,222322,,home renovation and repair work needed urgently,0
+40,131230.0,Business,Not Graduate,441517,307.0,buying a new car for daily commute,1
+60,79294.0,Business,Not Graduate,368426,645.0,want to pay off medical bills after a family emergency,0
+26,143241.0,Self-Employed,Not Graduate,359551,314.0,debt consolidation to reduce monthly payments,1
+41,149284.0,Salaried,Not Graduate,434460,586.0,planning to expand my small business and buy new equipment,0
+51,94517.0,Salaried,Graduate,95985,783.0,want to pay off medical bills after a family emergency,0
+29,106070.0,Salaried,Not Graduate,380394,738.0,buying a new car for daily commute,0
+52,49514.0,Salaried,Graduate,479079,427.0,I need this loan to renovate my home and fix the roof,0
+34,124976.0,Salaried,Graduate,496162,442.0,funding for my daughter wedding expenses,1
+56,105664.0,Salaried,Graduate,291131,730.0,traveling abroad for higher education,0
+46,136844.0,Salaried,Graduate,378408,750.0,purchasing new machinery for my shop,0
+45,51046.0,Self-Employed,Graduate,444860,454.0,traveling abroad for higher education,0
+28,121324.0,Salaried,Graduate,426828,301.0,looking to consolidate credit card debt into one payment,0
+41,78487.0,Business,Graduate,449407,544.0,I need this loan to renovate my home and fix the roof,0
+58,39999.0,Self-Employed,Graduate,417021,640.0,debt consolidation to reduce monthly payments,0
+21,38111.0,Salaried,Not Graduate,193748,,funding for my daughter wedding expenses,0
+54,90893.0,Salaried,Graduate,366481,814.0,home renovation and repair work needed urgently,0
+42,58125.0,Salaried,Graduate,208166,747.0,planning to expand my small business and buy new equipment,1
+52,28755.0,Business,Graduate,401891,733.0,home renovation and repair work needed urgently,0
+50,72664.0,Salaried,Graduate,406070,311.0,emergency funds needed for unexpected medical procedure,0
+40,103144.0,Salaried,Graduate,467668,769.0,purchasing new machinery for my shop,0
+34,58058.0,Business,Not Graduate,296218,715.0,planning to expand my small business and buy new equipment,0
+48,143972.0,Business,Graduate,240227,518.0,funding for my daughter wedding expenses,0
+27,120238.0,Salaried,Not Graduate,86944,624.0,purchasing new machinery for my shop,0
+46,84218.0,Salaried,Not Graduate,320952,753.0,funding for my daughter wedding expenses,0
+25,141178.0,Salaried,Graduate,285370,798.0,emergency funds needed for unexpected medical procedure,0
+49,73451.0,Salaried,Not Graduate,259895,602.0,planning to expand my small business and buy new equipment,0
+48,33855.0,Salaried,Graduate,339780,322.0,home renovation and repair work needed urgently,0
+24,19838.0,Self-Employed,Not Graduate,426263,640.0,looking to consolidate credit card debt into one payment,0
+54,141633.0,Business,Not Graduate,78592,674.0,starting a small business selling handmade crafts,0
+39,144569.0,Salaried,Not Graduate,218523,332.0,traveling abroad for higher education,0
+55,114798.0,Self-Employed,Not Graduate,362540,749.0,emergency funds needed for unexpected medical procedure,0
+22,28905.0,Salaried,Not Graduate,410764,410.0,buying a new car for daily commute,1
+28,54642.0,Business,Not Graduate,390302,,want to pay off medical bills after a family emergency,1
+42,20545.0,Self-Employed,Graduate,400680,603.0,funding for my daughter wedding expenses,0
+29,21918.0,Business,Not Graduate,428243,477.0,traveling abroad for higher education,1
+35,48218.0,Business,Not Graduate,481133,332.0,want to pay off medical bills after a family emergency,1
+50,92239.0,Salaried,Graduate,305992,309.0,emergency funds needed for unexpected medical procedure,0
+27,23846.0,Salaried,Not Graduate,128215,707.0,buying a new car for daily commute,1
+50,147921.0,Salaried,Graduate,283953,507.0,looking to consolidate credit card debt into one payment,0
+25,76440.0,Salaried,Graduate,356261,762.0,home renovation and repair work needed urgently,0
+28,50619.0,Business,Graduate,54847,426.0,funding for my daughter wedding expenses,0
+46,84671.0,Salaried,Graduate,379675,806.0,looking to consolidate credit card debt into one payment,0
+55,121670.0,Self-Employed,Not Graduate,274384,817.0,starting a small business selling handmade crafts,0
+28,57196.0,Salaried,Graduate,468457,355.0,debt consolidation to reduce monthly payments,1
+34,21414.0,Salaried,Graduate,109853,655.0,traveling abroad for higher education,0
+61,21879.0,Salaried,Graduate,453916,816.0,emergency funds needed for unexpected medical procedure,0
+64,130018.0,Self-Employed,Graduate,226762,477.0,emergency funds needed for unexpected medical procedure,0
+46,30066.0,Self-Employed,Not Graduate,288895,337.0,debt consolidation to reduce monthly payments,0
+40,100801.0,Salaried,Not Graduate,331701,781.0,looking to consolidate credit card debt into one payment,0
+36,66908.0,Salaried,Graduate,291680,560.0,looking to consolidate credit card debt into one payment,0
+47,119964.0,Self-Employed,Graduate,452396,314.0,buying a new car for daily commute,0
+47,23171.0,Salaried,Graduate,87809,762.0,emergency funds needed for unexpected medical procedure,0
+33,136201.0,Business,Graduate,366289,673.0,emergency funds needed for unexpected medical procedure,0
+22,109255.0,Salaried,Graduate,487606,338.0,planning to expand my small business and buy new equipment,0
+27,75652.0,Salaried,Graduate,113958,442.0,debt consolidation to reduce monthly payments,0
+63,42947.0,Salaried,Graduate,131233,310.0,funding for my daughter wedding expenses,0
+39,146914.0,Salaried,Graduate,240130,825.0,traveling abroad for higher education,0
+42,55779.0,Salaried,Graduate,363744,313.0,home renovation and repair work needed urgently,0
+41,81219.0,Salaried,Graduate,479695,737.0,purchasing new machinery for my shop,0
+55,68206.0,Business,Not Graduate,398918,581.0,emergency funds needed for unexpected medical procedure,0
+23,46124.0,Salaried,Not Graduate,398039,620.0,starting a small business selling handmade crafts,0
+24,71242.0,Salaried,Graduate,223401,746.0,want to pay off medical bills after a family emergency,0
+33,35450.0,Salaried,Not Graduate,324465,792.0,funding for my daughter wedding expenses,0
+42,15224.0,Salaried,Not Graduate,109540,370.0,traveling abroad for higher education,0
+50,54149.0,Self-Employed,Graduate,234258,309.0,funding for my daughter wedding expenses,1
+42,30129.0,Salaried,Graduate,98535,368.0,I need this loan to renovate my home and fix the roof,1
+40,70995.0,Self-Employed,Graduate,18426,675.0,want to pay off medical bills after a family emergency,0
+62,131473.0,Salaried,Not Graduate,428965,612.0,emergency funds needed for unexpected medical procedure,0
+28,36946.0,Business,Graduate,403340,,emergency funds needed for unexpected medical procedure,1
+46,15166.0,Salaried,Not Graduate,257824,428.0,purchasing new machinery for my shop,0
+44,29997.0,Business,Graduate,12175,595.0,purchasing new machinery for my shop,0
+41,83602.0,Salaried,Graduate,49617,701.0,starting a small business selling handmade crafts,0
+56,52103.0,Salaried,Not Graduate,60326,488.0,starting a small business selling handmade crafts,0
+32,81082.0,Business,Graduate,359924,822.0,debt consolidation to reduce monthly payments,0
+62,18948.0,Self-Employed,Not Graduate,105728,845.0,I need this loan to renovate my home and fix the roof,0
+35,59967.0,Self-Employed,Not Graduate,128834,721.0,emergency funds needed for unexpected medical procedure,0
+44,70368.0,Salaried,Not Graduate,431243,549.0,buying a new car for daily commute,0
+43,73229.0,Self-Employed,Graduate,438815,782.0,debt consolidation to reduce monthly payments,0
+58,89406.0,Business,Not Graduate,382711,700.0,debt consolidation to reduce monthly payments,1
+40,120378.0,Self-Employed,Graduate,158238,585.0,emergency funds needed for unexpected medical procedure,0
+33,78076.0,Salaried,Graduate,292069,544.0,emergency funds needed for unexpected medical procedure,0
+21,128562.0,Self-Employed,Not Graduate,104134,,home renovation and repair work needed urgently,0
+37,86514.0,Self-Employed,Not Graduate,429663,606.0,starting a small business selling handmade crafts,0
+57,50147.0,Business,Graduate,47004,400.0,want to pay off medical bills after a family emergency,0
+21,45917.0,Salaried,Graduate,373479,849.0,looking to consolidate credit card debt into one payment,0
+60,58536.0,Salaried,Not Graduate,258207,337.0,home renovation and repair work needed urgently,0
+44,95657.0,Business,Not Graduate,379948,682.0,emergency funds needed for unexpected medical procedure,0
+27,47735.0,Salaried,Graduate,228115,660.0,want to pay off medical bills after a family emergency,0
+34,138413.0,Self-Employed,Not Graduate,83270,622.0,traveling abroad for higher education,0
+45,79781.0,Salaried,Graduate,376899,,purchasing new machinery for my shop,0
+34,131541.0,Salaried,Graduate,317384,570.0,emergency funds needed for unexpected medical procedure,0
+25,107239.0,Self-Employed,Graduate,234978,790.0,want to pay off medical bills after a family emergency,0
+50,60002.0,Salaried,Not Graduate,189499,431.0,purchasing new machinery for my shop,1
+50,45814.0,Salaried,Graduate,175188,680.0,want to pay off medical bills after a family emergency,0
+26,115432.0,Self-Employed,Graduate,243161,772.0,buying a new car for daily commute,0
+33,59649.0,Self-Employed,Graduate,134519,823.0,traveling abroad for higher education,0
+31,48327.0,Business,Not Graduate,144769,583.0,starting a small business selling handmade crafts,0
+50,140601.0,Salaried,Graduate,142682,472.0,want to pay off medical bills after a family emergency,0
+53,80155.0,Salaried,Graduate,11276,684.0,I need this loan to renovate my home and fix the roof,0
+52,21556.0,Business,Not Graduate,464284,567.0,funding for my daughter wedding expenses,0
+62,81793.0,Salaried,Graduate,122093,644.0,home renovation and repair work needed urgently,0
+54,77203.0,Salaried,Graduate,86713,707.0,home renovation and repair work needed urgently,0
+35,131635.0,Salaried,Graduate,79829,,want to pay off medical bills after a family emergency,0
+25,111060.0,Salaried,Not Graduate,494147,433.0,planning to expand my small business and buy new equipment,0
+48,40833.0,Business,Graduate,240987,715.0,home renovation and repair work needed urgently,1
+61,35311.0,Self-Employed,Graduate,166825,598.0,planning to expand my small business and buy new equipment,0
+63,96485.0,Self-Employed,Graduate,204926,811.0,I need this loan to renovate my home and fix the roof,0
+31,21395.0,Salaried,Not Graduate,48753,662.0,buying a new car for daily commute,0
+31,58067.0,Salaried,Not Graduate,160265,790.0,starting a small business selling handmade crafts,0
+22,33657.0,Salaried,Graduate,128101,838.0,want to pay off medical bills after a family emergency,0
+27,17775.0,Salaried,Graduate,402593,846.0,want to pay off medical bills after a family emergency,0
+45,139041.0,Salaried,Not Graduate,33915,709.0,want to pay off medical bills after a family emergency,0
+45,27125.0,Salaried,Graduate,215596,628.0,funding for my daughter wedding expenses,0
+37,16250.0,Salaried,Graduate,396064,364.0,I need this loan to renovate my home and fix the roof,0
+34,140940.0,Self-Employed,Graduate,417630,512.0,I need this loan to renovate my home and fix the roof,0
+57,40423.0,Self-Employed,Graduate,258713,,funding for my daughter wedding expenses,1
+41,125235.0,Salaried,Graduate,115150,729.0,I need this loan to renovate my home and fix the roof,0
+56,19223.0,Salaried,Graduate,171808,623.0,looking to consolidate credit card debt into one payment,1
+63,35730.0,Self-Employed,Graduate,115034,541.0,starting a small business selling handmade crafts,0
+34,29934.0,Self-Employed,Graduate,332714,380.0,I need this loan to renovate my home and fix the roof,0
+29,110345.0,Business,Not Graduate,149857,693.0,emergency funds needed for unexpected medical procedure,0
+62,98720.0,Salaried,Graduate,317170,537.0,emergency funds needed for unexpected medical procedure,0
+48,79192.0,Business,Graduate,329568,319.0,starting a small business selling handmade crafts,1
+33,47621.0,Salaried,Not Graduate,470236,456.0,emergency funds needed for unexpected medical procedure,0
+48,26996.0,Salaried,Graduate,188323,783.0,debt consolidation to reduce monthly payments,0
+43,91843.0,Salaried,Not Graduate,480823,365.0,I need this loan to renovate my home and fix the roof,0
+60,46146.0,Salaried,Graduate,203354,523.0,want to pay off medical bills after a family emergency,0
+32,94676.0,Salaried,Not Graduate,341938,,looking to consolidate credit card debt into one payment,1
+64,107808.0,Salaried,Graduate,332501,346.0,home renovation and repair work needed urgently,1
+62,129673.0,Self-Employed,Graduate,409818,391.0,traveling abroad for higher education,1
+28,81687.0,Salaried,Graduate,237209,817.0,purchasing new machinery for my shop,0
+28,15640.0,Salaried,Graduate,397250,624.0,starting a small business selling handmade crafts,0
+44,52890.0,Salaried,Graduate,180891,415.0,funding for my daughter wedding expenses,0
+22,130204.0,Salaried,Not Graduate,248195,393.0,funding for my daughter wedding expenses,0
+34,86988.0,Salaried,Not Graduate,252338,534.0,I need this loan to renovate my home and fix the roof,0
+40,98581.0,Salaried,Graduate,353706,697.0,buying a new car for daily commute,0
+63,76806.0,Salaried,Not Graduate,311081,701.0,starting a small business selling handmade crafts,0
+64,36970.0,Self-Employed,Not Graduate,43738,407.0,want to pay off medical bills after a family emergency,0
+27,136055.0,Business,Not Graduate,405487,699.0,debt consolidation to reduce monthly payments,0
+60,119346.0,Salaried,Not Graduate,380220,792.0,debt consolidation to reduce monthly payments,0
+25,149349.0,Self-Employed,Not Graduate,56753,424.0,looking to consolidate credit card debt into one payment,0
+53,130491.0,Business,Graduate,481107,314.0,traveling abroad for higher education,0
+58,54302.0,Business,Not Graduate,332056,827.0,planning to expand my small business and buy new equipment,0
+60,49325.0,Self-Employed,Not Graduate,47062,587.0,traveling abroad for higher education,0
+30,48544.0,Business,Graduate,248241,727.0,debt consolidation to reduce monthly payments,0
+60,139037.0,Business,Graduate,418877,476.0,want to pay off medical bills after a family emergency,0
+26,90186.0,Self-Employed,Graduate,143515,464.0,emergency funds needed for unexpected medical procedure,0
+43,,Salaried,Not Graduate,466825,423.0,looking to consolidate credit card debt into one payment,1
+41,145715.0,Salaried,Graduate,212110,419.0,debt consolidation to reduce monthly payments,1
+34,96462.0,Salaried,Not Graduate,116963,559.0,planning to expand my small business and buy new equipment,0
+21,137773.0,Salaried,Not Graduate,181443,358.0,want to pay off medical bills after a family emergency,1
+54,147927.0,Salaried,Not Graduate,264781,763.0,looking to consolidate credit card debt into one payment,0
+35,25725.0,Salaried,Graduate,345624,581.0,want to pay off medical bills after a family emergency,1
+50,63807.0,Self-Employed,Not Graduate,464289,,looking to consolidate credit card debt into one payment,0
+39,114108.0,Self-Employed,Not Graduate,101473,576.0,emergency funds needed for unexpected medical procedure,0
+37,124776.0,Business,Graduate,480311,466.0,emergency funds needed for unexpected medical procedure,0
+59,35045.0,Salaried,Not Graduate,266211,583.0,starting a small business selling handmade crafts,0
+25,57983.0,Salaried,Graduate,68301,384.0,want to pay off medical bills after a family emergency,1
+53,89003.0,Self-Employed,Graduate,463601,753.0,want to pay off medical bills after a family emergency,1
+53,122893.0,Business,Graduate,177757,696.0,purchasing new machinery for my shop,0
+37,30250.0,Business,Graduate,312189,380.0,looking to consolidate credit card debt into one payment,0
+32,96099.0,Business,Graduate,350581,620.0,planning to expand my small business and buy new equipment,0
+21,55019.0,Business,Graduate,11636,595.0,buying a new car for daily commute,0
+62,44208.0,Salaried,Graduate,114671,410.0,I need this loan to renovate my home and fix the roof,0
+62,84578.0,Salaried,Graduate,344795,367.0,funding for my daughter wedding expenses,1
+31,70893.0,Salaried,Graduate,165761,718.0,traveling abroad for higher education,0
+22,100821.0,Self-Employed,Graduate,9619,445.0,looking to consolidate credit card debt into one payment,0
+26,57880.0,Business,Not Graduate,16529,585.0,home renovation and repair work needed urgently,0
+23,126142.0,Salaried,Not Graduate,414090,436.0,buying a new car for daily commute,0
+57,25544.0,Self-Employed,Graduate,80993,659.0,funding for my daughter wedding expenses,0
+60,131353.0,Salaried,Not Graduate,54710,326.0,emergency funds needed for unexpected medical procedure,1
+27,19027.0,Salaried,Graduate,283353,497.0,emergency funds needed for unexpected medical procedure,1
+53,114345.0,Salaried,Not Graduate,63873,600.0,looking to consolidate credit card debt into one payment,0
+28,61774.0,Salaried,Graduate,328279,541.0,want to pay off medical bills after a family emergency,1
+37,66750.0,Business,Not Graduate,274327,636.0,purchasing new machinery for my shop,1
+47,17569.0,Salaried,Not Graduate,326211,399.0,want to pay off medical bills after a family emergency,0
+52,109783.0,Business,Not Graduate,248344,542.0,purchasing new machinery for my shop,0
+59,37340.0,Self-Employed,Graduate,390288,716.0,buying a new car for daily commute,0
+22,103986.0,Salaried,Graduate,324153,483.0,purchasing new machinery for my shop,0
+29,112899.0,Salaried,Graduate,210564,386.0,funding for my daughter wedding expenses,0
+33,129107.0,Business,Not Graduate,12612,766.0,starting a small business selling handmade crafts,0
+34,110592.0,Salaried,Not Graduate,140377,728.0,emergency funds needed for unexpected medical procedure,0
+64,55702.0,Business,Not Graduate,70058,674.0,funding for my daughter wedding expenses,0
+55,114708.0,Salaried,Graduate,12712,738.0,want to pay off medical bills after a family emergency,0
+35,126503.0,Self-Employed,Graduate,140219,728.0,starting a small business selling handmade crafts,0
+63,57815.0,Business,Graduate,107281,710.0,emergency funds needed for unexpected medical procedure,0
+42,31763.0,Salaried,Graduate,42986,580.0,looking to consolidate credit card debt into one payment,0
+43,135152.0,Salaried,Graduate,159631,310.0,debt consolidation to reduce monthly payments,0
+40,34971.0,Business,Graduate,255749,628.0,emergency funds needed for unexpected medical procedure,0
+27,95167.0,Salaried,Not Graduate,93212,450.0,planning to expand my small business and buy new equipment,1
+62,46897.0,Salaried,Graduate,140190,725.0,purchasing new machinery for my shop,0
+21,32013.0,Salaried,Graduate,14971,557.0,I need this loan to renovate my home and fix the roof,0
+28,119816.0,Salaried,Graduate,29950,797.0,emergency funds needed for unexpected medical procedure,0
+31,34402.0,Self-Employed,Not Graduate,82936,627.0,buying a new car for daily commute,0
+33,105480.0,Self-Employed,Not Graduate,229197,602.0,emergency funds needed for unexpected medical procedure,1
+26,108567.0,Salaried,Graduate,334719,805.0,debt consolidation to reduce monthly payments,0
+21,23130.0,Business,Graduate,395227,561.0,home renovation and repair work needed urgently,0
+50,38347.0,Salaried,Graduate,316644,506.0,emergency funds needed for unexpected medical procedure,1
+63,122239.0,Salaried,Graduate,310340,504.0,traveling abroad for higher education,0
+26,83484.0,Self-Employed,Graduate,468163,781.0,home renovation and repair work needed urgently,0
+34,31382.0,Business,Graduate,131542,715.0,debt consolidation to reduce monthly payments,0
+43,148889.0,Salaried,Not Graduate,400093,389.0,funding for my daughter wedding expenses,1
+61,50773.0,Salaried,Graduate,468751,570.0,want to pay off medical bills after a family emergency,1
+51,15541.0,Salaried,Not Graduate,286039,504.0,want to pay off medical bills after a family emergency,1
+54,139762.0,Business,Graduate,421074,655.0,emergency funds needed for unexpected medical procedure,0
+46,17238.0,Salaried,Not Graduate,73090,328.0,starting a small business selling handmade crafts,0
+39,89703.0,Salaried,Not Graduate,439997,692.0,I need this loan to renovate my home and fix the roof,0
+29,149066.0,Self-Employed,Not Graduate,284215,708.0,want to pay off medical bills after a family emergency,0
+59,93004.0,Salaried,Graduate,114659,424.0,purchasing new machinery for my shop,0
+56,93926.0,Salaried,Graduate,35489,382.0,home renovation and repair work needed urgently,0
+22,,Salaried,Not Graduate,361364,645.0,debt consolidation to reduce monthly payments,0
+52,32132.0,Salaried,Not Graduate,218288,441.0,want to pay off medical bills after a family emergency,1
+24,,Salaried,Graduate,158451,817.0,I need this loan to renovate my home and fix the roof,0
+53,136135.0,Business,Graduate,198178,726.0,looking to consolidate credit card debt into one payment,0
+57,27298.0,Self-Employed,Graduate,495551,825.0,traveling abroad for higher education,0
+26,133851.0,Self-Employed,Not Graduate,216767,594.0,starting a small business selling handmade crafts,0
+40,71031.0,Business,Not Graduate,43994,816.0,debt consolidation to reduce monthly payments,0
+26,87387.0,Salaried,Graduate,143513,307.0,buying a new car for daily commute,0
+45,37329.0,Salaried,Graduate,76955,459.0,buying a new car for daily commute,1
+61,98941.0,Business,Graduate,344486,301.0,emergency funds needed for unexpected medical procedure,0
+24,39617.0,Salaried,Graduate,401197,672.0,purchasing new machinery for my shop,0
+38,51880.0,Self-Employed,Graduate,421267,580.0,buying a new car for daily commute,0
+63,112417.0,Self-Employed,Not Graduate,318276,458.0,emergency funds needed for unexpected medical procedure,0
+34,21820.0,Salaried,Graduate,385415,467.0,purchasing new machinery for my shop,1
+26,75369.0,Salaried,Graduate,211558,654.0,funding for my daughter wedding expenses,0
+42,95266.0,Salaried,Graduate,315737,399.0,traveling abroad for higher education,0
+43,32823.0,Salaried,Graduate,57952,583.0,starting a small business selling handmade crafts,0
+50,54791.0,Salaried,Graduate,271480,637.0,traveling abroad for higher education,0
+34,61372.0,Salaried,Graduate,280946,431.0,buying a new car for daily commute,1
+63,104588.0,Self-Employed,Graduate,20386,425.0,emergency funds needed for unexpected medical procedure,0
+43,146855.0,Business,Not Graduate,276412,494.0,looking to consolidate credit card debt into one payment,0
+33,127893.0,Business,Graduate,362852,625.0,emergency funds needed for unexpected medical procedure,0
+63,40618.0,Salaried,Graduate,186957,439.0,looking to consolidate credit card debt into one payment,0
+61,17451.0,Salaried,Graduate,274766,508.0,emergency funds needed for unexpected medical procedure,0
+42,22008.0,Salaried,Not Graduate,146606,598.0,debt consolidation to reduce monthly payments,0
+22,95421.0,Salaried,Graduate,139016,402.0,buying a new car for daily commute,0
+47,36095.0,Business,Not Graduate,69099,612.0,buying a new car for daily commute,0
+45,,Salaried,Not Graduate,167281,375.0,looking to consolidate credit card debt into one payment,0
+27,129397.0,Salaried,Not Graduate,402581,378.0,home renovation and repair work needed urgently,0
+48,132974.0,Business,Graduate,468125,430.0,emergency funds needed for unexpected medical procedure,1
+57,128269.0,Salaried,Not Graduate,319634,457.0,starting a small business selling handmade crafts,0
+25,49244.0,Salaried,Graduate,314059,316.0,I need this loan to renovate my home and fix the roof,1
+52,98657.0,Salaried,Graduate,308841,828.0,planning to expand my small business and buy new equipment,0
+27,97453.0,Self-Employed,Graduate,240576,469.0,I need this loan to renovate my home and fix the roof,0
+53,40008.0,Self-Employed,Graduate,214402,742.0,traveling abroad for higher education,0
+39,89728.0,Salaried,Graduate,312356,796.0,traveling abroad for higher education,1
+21,85909.0,Business,Graduate,393278,740.0,I need this loan to renovate my home and fix the roof,0
+63,68482.0,Business,Graduate,209802,757.0,I need this loan to renovate my home and fix the roof,0
+28,116474.0,Business,Graduate,285116,355.0,debt consolidation to reduce monthly payments,0
+47,106478.0,Salaried,Graduate,237740,504.0,starting a small business selling handmade crafts,1
+28,86908.0,Salaried,Not Graduate,146329,710.0,looking to consolidate credit card debt into one payment,0
+62,112978.0,Business,Graduate,148703,616.0,emergency funds needed for unexpected medical procedure,0
+53,118019.0,Salaried,Graduate,43991,303.0,want to pay off medical bills after a family emergency,0
+56,91536.0,Self-Employed,Graduate,222727,612.0,want to pay off medical bills after a family emergency,0
+40,51136.0,Self-Employed,Graduate,357665,742.0,funding for my daughter wedding expenses,0
+41,117387.0,Salaried,Graduate,344368,755.0,traveling abroad for higher education,0
+48,111877.0,Self-Employed,Graduate,492905,511.0,debt consolidation to reduce monthly payments,0
+55,147761.0,Business,Graduate,24771,429.0,want to pay off medical bills after a family emergency,0
+58,35220.0,Self-Employed,Graduate,381525,470.0,starting a small business selling handmade crafts,1
+21,71601.0,Salaried,Graduate,398538,463.0,traveling abroad for higher education,0
+50,139770.0,Business,Graduate,221035,490.0,purchasing new machinery for my shop,0
+25,84468.0,Salaried,Graduate,145074,465.0,debt consolidation to reduce monthly payments,1
+33,142254.0,Self-Employed,Graduate,181765,551.0,planning to expand my small business and buy new equipment,0
+57,16683.0,Business,Graduate,342867,322.0,want to pay off medical bills after a family emergency,0
+32,19747.0,Self-Employed,Graduate,431772,451.0,want to pay off medical bills after a family emergency,1
+56,122463.0,Salaried,Graduate,323149,473.0,planning to expand my small business and buy new equipment,0
+41,63388.0,Salaried,Graduate,259522,384.0,want to pay off medical bills after a family emergency,1
+31,85231.0,Salaried,Graduate,328050,782.0,looking to consolidate credit card debt into one payment,0
+35,72781.0,Salaried,Graduate,39945,671.0,starting a small business selling handmade crafts,0
+44,70074.0,Salaried,Not Graduate,306023,801.0,funding for my daughter wedding expenses,0
+54,141829.0,Self-Employed,Graduate,25859,608.0,buying a new car for daily commute,0
+47,27699.0,Salaried,Graduate,479755,360.0,want to pay off medical bills after a family emergency,0
+62,119249.0,Self-Employed,Graduate,445157,797.0,planning to expand my small business and buy new equipment,0
+59,135103.0,Business,Not Graduate,256630,551.0,purchasing new machinery for my shop,0
+54,103750.0,Salaried,Graduate,190170,676.0,emergency funds needed for unexpected medical procedure,0
+47,68325.0,Self-Employed,Graduate,367497,509.0,want to pay off medical bills after a family emergency,0
+33,36601.0,Self-Employed,Not Graduate,320603,571.0,debt consolidation to reduce monthly payments,1
+39,107148.0,Salaried,Graduate,354197,569.0,debt consolidation to reduce monthly payments,0
+26,78287.0,Salaried,Not Graduate,260213,456.0,purchasing new machinery for my shop,0
+37,35165.0,Self-Employed,Graduate,121952,605.0,planning to expand my small business and buy new equipment,1
+61,63552.0,Business,Graduate,41259,703.0,emergency funds needed for unexpected medical procedure,0
+39,144809.0,Self-Employed,Graduate,145236,311.0,purchasing new machinery for my shop,0
+26,,Business,Graduate,266854,372.0,debt consolidation to reduce monthly payments,0
+49,39089.0,Business,Not Graduate,214888,763.0,want to pay off medical bills after a family emergency,1
+63,107066.0,Salaried,Graduate,255651,613.0,traveling abroad for higher education,0
+59,41938.0,Self-Employed,Not Graduate,142460,835.0,buying a new car for daily commute,0
+33,139187.0,Salaried,Graduate,469245,632.0,buying a new car for daily commute,0
+40,130962.0,Business,Graduate,186537,659.0,starting a small business selling handmade crafts,0
+44,147776.0,Salaried,Not Graduate,423847,794.0,debt consolidation to reduce monthly payments,0
+31,138198.0,Salaried,Graduate,198525,663.0,planning to expand my small business and buy new equipment,0
+32,47908.0,Business,Not Graduate,224575,481.0,starting a small business selling handmade crafts,0
+31,43639.0,Salaried,Graduate,303912,590.0,debt consolidation to reduce monthly payments,0
+64,61256.0,Self-Employed,Not Graduate,135250,429.0,starting a small business selling handmade crafts,0
+53,78423.0,Salaried,Graduate,113845,483.0,looking to consolidate credit card debt into one payment,0
+57,133799.0,Business,Graduate,192699,674.0,I need this loan to renovate my home and fix the roof,0
+56,114021.0,Business,Not Graduate,403124,381.0,starting a small business selling handmade crafts,0
+63,101998.0,Salaried,Graduate,76577,669.0,home renovation and repair work needed urgently,0
+25,133579.0,Self-Employed,Graduate,221580,621.0,starting a small business selling handmade crafts,0
+59,102194.0,Salaried,Graduate,337697,469.0,purchasing new machinery for my shop,1
+23,66172.0,Self-Employed,Not Graduate,354590,324.0,emergency funds needed for unexpected medical procedure,1
+41,70755.0,Self-Employed,Graduate,220031,687.0,starting a small business selling handmade crafts,0
+47,84797.0,Business,Not Graduate,45314,753.0,I need this loan to renovate my home and fix the roof,0
+36,26984.0,Salaried,Not Graduate,12873,701.0,starting a small business selling handmade crafts,0
+27,115131.0,Salaried,Graduate,237632,531.0,want to pay off medical bills after a family emergency,0
+29,103124.0,Self-Employed,Graduate,405972,659.0,home renovation and repair work needed urgently,0
+57,113703.0,Self-Employed,Not Graduate,18968,528.0,planning to expand my small business and buy new equipment,0
+35,87082.0,Salaried,Graduate,444301,497.0,traveling abroad for higher education,0
+34,120699.0,Salaried,Graduate,339575,479.0,looking to consolidate credit card debt into one payment,1
+61,143216.0,Salaried,Not Graduate,8987,415.0,buying a new car for daily commute,0
+27,91941.0,Business,Graduate,175136,,planning to expand my small business and buy new equipment,0
+61,74991.0,Salaried,Graduate,114148,,want to pay off medical bills after a family emergency,0
+61,29123.0,Salaried,Not Graduate,474880,396.0,purchasing new machinery for my shop,0
+47,120121.0,Business,Graduate,279617,775.0,looking to consolidate credit card debt into one payment,0
+28,137036.0,Salaried,Graduate,165441,383.0,starting a small business selling handmade crafts,0
+27,109431.0,Self-Employed,Graduate,142633,626.0,purchasing new machinery for my shop,0
+33,131852.0,Salaried,Not Graduate,284083,391.0,emergency funds needed for unexpected medical procedure,1
+46,131261.0,Business,Not Graduate,7521,498.0,I need this loan to renovate my home and fix the roof,0
+27,122743.0,Self-Employed,Graduate,132406,662.0,funding for my daughter wedding expenses,0
+41,82888.0,Business,Graduate,86877,849.0,funding for my daughter wedding expenses,0
+26,28481.0,Salaried,Graduate,311955,845.0,looking to consolidate credit card debt into one payment,0
+44,15438.0,Salaried,Graduate,336265,792.0,want to pay off medical bills after a family emergency,0
+21,42593.0,Self-Employed,Graduate,236185,429.0,starting a small business selling handmade crafts,0
+52,73188.0,Salaried,Not Graduate,74314,351.0,funding for my daughter wedding expenses,0
+23,,Salaried,Graduate,188460,798.0,looking to consolidate credit card debt into one payment,0
+29,76533.0,Salaried,Not Graduate,422235,807.0,funding for my daughter wedding expenses,1
+28,18123.0,Business,Graduate,105826,453.0,funding for my daughter wedding expenses,0
+57,43396.0,Self-Employed,Graduate,85866,310.0,want to pay off medical bills after a family emergency,1
+23,147195.0,Self-Employed,Graduate,60203,656.0,buying a new car for daily commute,0
+39,148383.0,Self-Employed,Graduate,409273,341.0,purchasing new machinery for my shop,1
+47,65914.0,Salaried,Not Graduate,64340,322.0,starting a small business selling handmade crafts,0
+43,123673.0,Salaried,Not Graduate,292901,815.0,emergency funds needed for unexpected medical procedure,0
+50,112107.0,Salaried,Not Graduate,499524,572.0,purchasing new machinery for my shop,0
+56,140721.0,Self-Employed,Graduate,322696,361.0,emergency funds needed for unexpected medical procedure,0
+38,134822.0,Salaried,Not Graduate,209093,660.0,want to pay off medical bills after a family emergency,0
+57,99880.0,Business,Graduate,107379,503.0,funding for my daughter wedding expenses,0
+34,,Business,Not Graduate,5955,594.0,buying a new car for daily commute,0
+64,99598.0,Salaried,Graduate,82003,794.0,buying a new car for daily commute,0
+43,58082.0,Self-Employed,Graduate,476699,430.0,planning to expand my small business and buy new equipment,0
+53,61992.0,Salaried,Graduate,76083,,planning to expand my small business and buy new equipment,0
+59,97180.0,Business,Graduate,14890,755.0,funding for my daughter wedding expenses,0
+55,92138.0,Business,Graduate,408955,533.0,traveling abroad for higher education,0
+58,93433.0,Business,Not Graduate,212200,833.0,home renovation and repair work needed urgently,0
+44,66931.0,Salaried,Not Graduate,181713,546.0,traveling abroad for higher education,1
+22,70233.0,Salaried,Not Graduate,360151,552.0,want to pay off medical bills after a family emergency,0
+42,16375.0,Salaried,Graduate,263899,786.0,funding for my daughter wedding expenses,0
+28,96239.0,Salaried,Graduate,457726,649.0,starting a small business selling handmade crafts,0
+60,92730.0,Salaried,Graduate,236461,777.0,buying a new car for daily commute,0
+31,141276.0,Salaried,Graduate,357878,734.0,buying a new car for daily commute,0
+31,83077.0,Business,Graduate,440037,691.0,funding for my daughter wedding expenses,0
+31,78131.0,Salaried,Graduate,234494,432.0,I need this loan to renovate my home and fix the roof,0
+49,24137.0,Salaried,Graduate,145719,,traveling abroad for higher education,0
+46,41560.0,Business,Graduate,487348,775.0,purchasing new machinery for my shop,0
+62,60635.0,Self-Employed,Graduate,117262,638.0,I need this loan to renovate my home and fix the roof,0
+39,65922.0,Self-Employed,Not Graduate,24463,454.0,funding for my daughter wedding expenses,0
+33,63962.0,Self-Employed,Graduate,291185,480.0,starting a small business selling handmade crafts,0
+23,68204.0,Business,Not Graduate,493511,726.0,debt consolidation to reduce monthly payments,1
+21,118803.0,Self-Employed,Graduate,47786,398.0,purchasing new machinery for my shop,0
+37,32699.0,Salaried,Not Graduate,425448,361.0,funding for my daughter wedding expenses,0
+61,59855.0,Self-Employed,Not Graduate,416064,720.0,home renovation and repair work needed urgently,0
+44,36987.0,Salaried,Not Graduate,464820,458.0,purchasing new machinery for my shop,1
+60,56552.0,Salaried,Not Graduate,213673,720.0,debt consolidation to reduce monthly payments,0
+25,107415.0,Salaried,Not Graduate,131112,593.0,looking to consolidate credit card debt into one payment,0
+25,21313.0,Salaried,Graduate,258510,848.0,debt consolidation to reduce monthly payments,0
+57,60829.0,Self-Employed,Graduate,75516,588.0,funding for my daughter wedding expenses,0
+25,18197.0,Salaried,Graduate,422210,777.0,I need this loan to renovate my home and fix the roof,0
+23,143911.0,Salaried,Graduate,333341,767.0,debt consolidation to reduce monthly payments,0
+38,113179.0,Salaried,Graduate,244246,416.0,traveling abroad for higher education,1
+61,47885.0,Business,Graduate,260350,847.0,funding for my daughter wedding expenses,0
+51,41756.0,Salaried,Graduate,357500,710.0,buying a new car for daily commute,1
+25,28354.0,Self-Employed,Graduate,263968,358.0,funding for my daughter wedding expenses,0
+57,78838.0,Business,Graduate,420704,303.0,planning to expand my small business and buy new equipment,1
+58,116723.0,Salaried,Graduate,462686,,purchasing new machinery for my shop,1
+56,93868.0,Self-Employed,Not Graduate,475146,308.0,I need this loan to renovate my home and fix the roof,1
+60,133939.0,Salaried,Not Graduate,311940,496.0,starting a small business selling handmade crafts,0
+31,61415.0,Salaried,Graduate,372562,847.0,I need this loan to renovate my home and fix the roof,0
+64,52545.0,Self-Employed,Graduate,158976,563.0,home renovation and repair work needed urgently,0
+35,79536.0,Business,Graduate,23867,313.0,traveling abroad for higher education,0
+56,42281.0,Salaried,Graduate,203032,571.0,emergency funds needed for unexpected medical procedure,0
+46,146712.0,Self-Employed,Not Graduate,436496,420.0,emergency funds needed for unexpected medical procedure,0
+55,40078.0,Salaried,Graduate,71080,,debt consolidation to reduce monthly payments,0
+48,79647.0,Self-Employed,Not Graduate,275127,349.0,purchasing new machinery for my shop,0
+49,85471.0,Self-Employed,Graduate,100195,723.0,traveling abroad for higher education,0
+48,22701.0,Self-Employed,Not Graduate,217489,545.0,want to pay off medical bills after a family emergency,0
+55,78236.0,Self-Employed,Graduate,75958,310.0,starting a small business selling handmade crafts,0
+53,76384.0,Salaried,Graduate,368698,670.0,debt consolidation to reduce monthly payments,0
+26,50024.0,Self-Employed,Not Graduate,406094,550.0,looking to consolidate credit card debt into one payment,0
+57,32275.0,Self-Employed,Graduate,380385,724.0,home renovation and repair work needed urgently,0
+44,21098.0,Self-Employed,Not Graduate,353912,639.0,I need this loan to renovate my home and fix the roof,1
+35,16158.0,Salaried,Graduate,121400,732.0,traveling abroad for higher education,0
+43,80001.0,Salaried,Graduate,267520,553.0,emergency funds needed for unexpected medical procedure,0
+63,27128.0,Salaried,Graduate,56868,304.0,home renovation and repair work needed urgently,0
+58,144509.0,Salaried,Not Graduate,190312,371.0,debt consolidation to reduce monthly payments,0
+57,48040.0,Salaried,Graduate,255378,552.0,want to pay off medical bills after a family emergency,0
+41,103090.0,Salaried,Not Graduate,335904,518.0,buying a new car for daily commute,0
+55,105920.0,Self-Employed,Not Graduate,52917,736.0,traveling abroad for higher education,0
+37,81893.0,Salaried,Not Graduate,407388,526.0,planning to expand my small business and buy new equipment,1
+51,134287.0,Business,Graduate,232157,773.0,debt consolidation to reduce monthly payments,0
+49,29943.0,Salaried,Not Graduate,441210,403.0,looking to consolidate credit card debt into one payment,0
+31,46594.0,Self-Employed,Not Graduate,266100,511.0,starting a small business selling handmade crafts,0
+32,49078.0,Salaried,Graduate,275773,715.0,starting a small business selling handmade crafts,1
+23,33280.0,Salaried,Graduate,347832,368.0,home renovation and repair work needed urgently,0
+27,54794.0,Self-Employed,Graduate,410843,476.0,traveling abroad for higher education,0
+40,57212.0,Business,Graduate,83024,713.0,funding for my daughter wedding expenses,0
+42,118248.0,Salaried,Not Graduate,258096,623.0,want to pay off medical bills after a family emergency,1
+28,55719.0,Salaried,Graduate,19827,727.0,buying a new car for daily commute,0
+39,133355.0,Self-Employed,Graduate,239892,583.0,emergency funds needed for unexpected medical procedure,1
+47,119311.0,Self-Employed,Graduate,407689,772.0,debt consolidation to reduce monthly payments,0
+31,136721.0,Salaried,Graduate,433388,782.0,debt consolidation to reduce monthly payments,0
+35,29205.0,Salaried,Graduate,145342,836.0,funding for my daughter wedding expenses,0
+37,147916.0,Salaried,Not Graduate,196255,367.0,purchasing new machinery for my shop,0
+43,97884.0,Business,Graduate,278022,625.0,I need this loan to renovate my home and fix the roof,0
+37,147619.0,Salaried,Graduate,200976,362.0,planning to expand my small business and buy new equipment,0
+53,62903.0,Salaried,Not Graduate,93149,425.0,I need this loan to renovate my home and fix the roof,1
+35,,Business,Graduate,155931,465.0,purchasing new machinery for my shop,0
+40,94461.0,Salaried,Graduate,205008,655.0,want to pay off medical bills after a family emergency,0
+37,24695.0,Salaried,Graduate,261757,537.0,emergency funds needed for unexpected medical procedure,0
+29,70366.0,Salaried,Not Graduate,460762,775.0,debt consolidation to reduce monthly payments,0
+51,33602.0,Salaried,Not Graduate,274700,464.0,debt consolidation to reduce monthly payments,0
+31,142072.0,Salaried,Graduate,196622,639.0,purchasing new machinery for my shop,0
+34,56102.0,Salaried,Graduate,331928,719.0,I need this loan to renovate my home and fix the roof,0
+55,45018.0,Self-Employed,Graduate,387662,839.0,funding for my daughter wedding expenses,0
+62,89641.0,Self-Employed,Graduate,218098,,starting a small business selling handmade crafts,1
+50,72396.0,Salaried,Graduate,247186,703.0,home renovation and repair work needed urgently,0
+61,28092.0,Self-Employed,Not Graduate,112829,346.0,emergency funds needed for unexpected medical procedure,1
+58,125226.0,Salaried,Not Graduate,433069,598.0,starting a small business selling handmade crafts,0
+42,129182.0,Business,Graduate,434086,527.0,looking to consolidate credit card debt into one payment,0
+54,115299.0,Salaried,Not Graduate,91580,827.0,planning to expand my small business and buy new equipment,0
+35,98262.0,Self-Employed,Not Graduate,176270,725.0,buying a new car for daily commute,0
+41,69345.0,Salaried,Graduate,139614,809.0,looking to consolidate credit card debt into one payment,0
+44,88219.0,Self-Employed,Graduate,461856,767.0,starting a small business selling handmade crafts,1
+63,85334.0,Salaried,Not Graduate,37286,525.0,debt consolidation to reduce monthly payments,0
+58,37317.0,Self-Employed,Graduate,107639,703.0,starting a small business selling handmade crafts,0
+42,26044.0,Salaried,Not Graduate,160879,316.0,starting a small business selling handmade crafts,0
+49,49189.0,Business,Graduate,282228,606.0,I need this loan to renovate my home and fix the roof,0
+29,76335.0,Salaried,Graduate,128244,326.0,emergency funds needed for unexpected medical procedure,0
+56,36642.0,Self-Employed,Not Graduate,270624,698.0,buying a new car for daily commute,0
+45,29400.0,Business,Graduate,374877,831.0,planning to expand my small business and buy new equipment,0
+44,130010.0,Business,Graduate,415180,674.0,want to pay off medical bills after a family emergency,1
+54,65624.0,Salaried,Graduate,54035,761.0,debt consolidation to reduce monthly payments,0
+48,93870.0,Salaried,Graduate,73731,428.0,purchasing new machinery for my shop,0
+24,85743.0,Salaried,Graduate,52120,846.0,starting a small business selling handmade crafts,0
+33,114242.0,Salaried,Graduate,455418,602.0,purchasing new machinery for my shop,0
+28,114874.0,Self-Employed,Graduate,327788,670.0,want to pay off medical bills after a family emergency,0
+53,54964.0,Business,Graduate,268056,723.0,looking to consolidate credit card debt into one payment,0
+22,129467.0,Business,Graduate,396501,651.0,purchasing new machinery for my shop,0
+29,65119.0,Salaried,Not Graduate,295124,474.0,want to pay off medical bills after a family emergency,0
+47,127752.0,Self-Employed,Graduate,121549,636.0,emergency funds needed for unexpected medical procedure,0
+51,69655.0,Business,Graduate,257532,659.0,want to pay off medical bills after a family emergency,0
+43,29984.0,Business,Graduate,353089,771.0,looking to consolidate credit card debt into one payment,0
+58,117602.0,Salaried,Graduate,22832,564.0,buying a new car for daily commute,0
+61,19071.0,Salaried,Not Graduate,305135,575.0,funding for my daughter wedding expenses,0
+26,119267.0,Business,Graduate,251059,576.0,traveling abroad for higher education,0
+62,20826.0,Salaried,Graduate,39405,362.0,purchasing new machinery for my shop,0
+48,42919.0,Salaried,Not Graduate,135457,349.0,starting a small business selling handmade crafts,0
+48,96454.0,Business,Not Graduate,227024,311.0,starting a small business selling handmade crafts,1
+25,142107.0,Business,Not Graduate,174630,666.0,I need this loan to renovate my home and fix the roof,0
+48,70144.0,Business,Not Graduate,148582,530.0,want to pay off medical bills after a family emergency,0
+52,31288.0,Self-Employed,Not Graduate,326305,776.0,I need this loan to renovate my home and fix the roof,0
+46,46442.0,Salaried,Graduate,205159,686.0,traveling abroad for higher education,0
+24,135976.0,Salaried,Graduate,251360,377.0,want to pay off medical bills after a family emergency,0
+44,113109.0,Salaried,Graduate,400166,355.0,funding for my daughter wedding expenses,1
+62,28553.0,Self-Employed,Graduate,51143,501.0,traveling abroad for higher education,1
+52,66961.0,Salaried,Graduate,183153,806.0,home renovation and repair work needed urgently,0
+27,50712.0,Self-Employed,Graduate,41155,326.0,emergency funds needed for unexpected medical procedure,0
+63,39007.0,Salaried,Not Graduate,464027,,I need this loan to renovate my home and fix the roof,0
+63,129274.0,Self-Employed,Not Graduate,96900,316.0,starting a small business selling handmade crafts,0
+28,98391.0,Salaried,Not Graduate,410834,527.0,starting a small business selling handmade crafts,0
+56,39231.0,Salaried,Graduate,99488,844.0,looking to consolidate credit card debt into one payment,0
+38,102843.0,Salaried,Graduate,165408,676.0,home renovation and repair work needed urgently,0
+47,70831.0,Salaried,Graduate,306108,571.0,purchasing new machinery for my shop,0
+40,23299.0,Business,Graduate,416530,379.0,looking to consolidate credit card debt into one payment,1
+55,75731.0,Salaried,Not Graduate,93018,495.0,looking to consolidate credit card debt into one payment,0
+64,40006.0,Salaried,Not Graduate,110494,588.0,looking to consolidate credit card debt into one payment,0
+55,48109.0,Self-Employed,Not Graduate,441451,451.0,traveling abroad for higher education,0
+61,133664.0,Self-Employed,Not Graduate,164372,687.0,I need this loan to renovate my home and fix the roof,0
+62,110883.0,Salaried,Not Graduate,108831,,traveling abroad for higher education,0
+24,33102.0,Salaried,Graduate,373043,413.0,debt consolidation to reduce monthly payments,0
+32,,Salaried,Graduate,50110,438.0,buying a new car for daily commute,0
+52,92531.0,Self-Employed,Graduate,434147,369.0,emergency funds needed for unexpected medical procedure,1
+46,133067.0,Salaried,Graduate,438494,699.0,traveling abroad for higher education,0
+23,115855.0,Salaried,Graduate,428977,553.0,debt consolidation to reduce monthly payments,0
+25,60808.0,Salaried,Graduate,151187,456.0,looking to consolidate credit card debt into one payment,0
+43,87207.0,Self-Employed,Not Graduate,61533,420.0,I need this loan to renovate my home and fix the roof,0
+48,86664.0,Salaried,Graduate,215584,338.0,emergency funds needed for unexpected medical procedure,1
+28,112192.0,Business,Not Graduate,170615,561.0,planning to expand my small business and buy new equipment,0
+28,48534.0,Salaried,Not Graduate,479718,675.0,planning to expand my small business and buy new equipment,0
+26,59966.0,Self-Employed,Graduate,317689,429.0,purchasing new machinery for my shop,0
+45,48047.0,Salaried,Not Graduate,472462,300.0,buying a new car for daily commute,0
+21,54979.0,Salaried,Graduate,376683,560.0,emergency funds needed for unexpected medical procedure,0
+46,36769.0,Salaried,Graduate,358883,671.0,want to pay off medical bills after a family emergency,1
+41,19933.0,Business,Graduate,60363,489.0,planning to expand my small business and buy new equipment,1
+41,141902.0,Business,Not Graduate,39124,437.0,I need this loan to renovate my home and fix the roof,0
+50,25032.0,Salaried,Graduate,28013,384.0,funding for my daughter wedding expenses,0
+43,134878.0,Salaried,Graduate,298703,710.0,I need this loan to renovate my home and fix the roof,0
+53,15415.0,Business,Not Graduate,104846,773.0,buying a new car for daily commute,0
+54,119943.0,Salaried,Not Graduate,494593,723.0,looking to consolidate credit card debt into one payment,0
+61,59334.0,Salaried,Graduate,70667,585.0,starting a small business selling handmade crafts,0
+56,84884.0,Salaried,Graduate,473723,698.0,emergency funds needed for unexpected medical procedure,0
+43,53099.0,Self-Employed,Graduate,335481,518.0,looking to consolidate credit card debt into one payment,0
+42,81232.0,Self-Employed,Not Graduate,57471,313.0,buying a new car for daily commute,0
+31,75960.0,Self-Employed,Graduate,33934,502.0,I need this loan to renovate my home and fix the roof,0
+47,86515.0,Business,Graduate,201003,687.0,looking to consolidate credit card debt into one payment,0
+27,68093.0,Salaried,Graduate,172783,656.0,purchasing new machinery for my shop,0
+61,87436.0,Salaried,Graduate,161190,844.0,purchasing new machinery for my shop,0
+58,126436.0,Salaried,Graduate,266637,848.0,buying a new car for daily commute,0
+26,73666.0,Salaried,Graduate,69215,433.0,purchasing new machinery for my shop,1
+55,63785.0,Salaried,Graduate,69081,305.0,starting a small business selling handmade crafts,1
+26,32786.0,Salaried,Graduate,348925,450.0,planning to expand my small business and buy new equipment,0
+52,63561.0,Salaried,Graduate,495202,781.0,traveling abroad for higher education,0
+24,31964.0,Self-Employed,Graduate,140554,747.0,funding for my daughter wedding expenses,0
+42,39637.0,Salaried,Not Graduate,466304,354.0,emergency funds needed for unexpected medical procedure,1
+49,143553.0,Salaried,Not Graduate,175708,,emergency funds needed for unexpected medical procedure,0
+53,27070.0,Self-Employed,Graduate,171264,609.0,looking to consolidate credit card debt into one payment,0
+39,80074.0,Self-Employed,Not Graduate,49727,663.0,home renovation and repair work needed urgently,0
+61,127630.0,Self-Employed,Graduate,214546,840.0,starting a small business selling handmade crafts,0
+55,143682.0,Business,Graduate,251493,715.0,funding for my daughter wedding expenses,0
+30,34806.0,Self-Employed,Not Graduate,333566,416.0,looking to consolidate credit card debt into one payment,1
+50,37082.0,Salaried,Not Graduate,83293,320.0,home renovation and repair work needed urgently,0
+53,65300.0,Salaried,Not Graduate,98403,648.0,want to pay off medical bills after a family emergency,0
+35,89846.0,Self-Employed,Graduate,218884,604.0,planning to expand my small business and buy new equipment,0
+53,144574.0,Salaried,Not Graduate,39475,806.0,traveling abroad for higher education,0
+60,43041.0,Salaried,Graduate,75954,616.0,looking to consolidate credit card debt into one payment,0
+56,37193.0,Salaried,Graduate,316392,575.0,emergency funds needed for unexpected medical procedure,0
+54,49179.0,Salaried,Graduate,477155,466.0,home renovation and repair work needed urgently,1
+48,133033.0,Salaried,Not Graduate,288616,347.0,traveling abroad for higher education,1
+32,19057.0,Salaried,Graduate,76766,781.0,emergency funds needed for unexpected medical procedure,0
+55,66318.0,Business,Not Graduate,495540,754.0,home renovation and repair work needed urgently,0
+37,31058.0,Business,Graduate,263334,389.0,traveling abroad for higher education,1
+44,36204.0,Salaried,Not Graduate,359838,687.0,purchasing new machinery for my shop,1
+34,138774.0,Business,Not Graduate,102505,500.0,I need this loan to renovate my home and fix the roof,0
+34,15224.0,Salaried,Not Graduate,291325,540.0,home renovation and repair work needed urgently,1
+27,58406.0,Business,Graduate,42799,766.0,want to pay off medical bills after a family emergency,1
+63,138582.0,Business,Graduate,314741,763.0,traveling abroad for higher education,0
+27,97097.0,Salaried,Graduate,105142,404.0,I need this loan to renovate my home and fix the roof,0
+24,24686.0,Self-Employed,Graduate,455209,469.0,want to pay off medical bills after a family emergency,0
+62,77776.0,Business,Graduate,32113,751.0,want to pay off medical bills after a family emergency,0
+45,146077.0,Business,Graduate,328051,804.0,emergency funds needed for unexpected medical procedure,0
+40,69060.0,Business,Graduate,74001,343.0,I need this loan to renovate my home and fix the roof,0
+53,86365.0,Self-Employed,Graduate,345125,758.0,I need this loan to renovate my home and fix the roof,0
+37,86804.0,Salaried,Graduate,249274,569.0,starting a small business selling handmade crafts,0
+26,104160.0,Business,Not Graduate,483903,624.0,purchasing new machinery for my shop,0
+53,40277.0,Self-Employed,Graduate,327648,341.0,starting a small business selling handmade crafts,1
+28,128357.0,Self-Employed,Not Graduate,189139,674.0,buying a new car for daily commute,0
+45,148461.0,Salaried,Not Graduate,48233,672.0,emergency funds needed for unexpected medical procedure,0
+62,34244.0,Self-Employed,Graduate,299899,664.0,starting a small business selling handmade crafts,0
+62,125471.0,Salaried,Not Graduate,223304,734.0,funding for my daughter wedding expenses,1
+36,125282.0,Self-Employed,Graduate,30993,820.0,emergency funds needed for unexpected medical procedure,0
+55,115117.0,Salaried,Not Graduate,292717,767.0,I need this loan to renovate my home and fix the roof,0
+47,65068.0,Self-Employed,Graduate,108947,709.0,want to pay off medical bills after a family emergency,0
+42,78282.0,Business,Graduate,120941,839.0,home renovation and repair work needed urgently,0
+27,128293.0,Salaried,Graduate,9434,670.0,funding for my daughter wedding expenses,0
+37,35638.0,Salaried,Graduate,189178,669.0,I need this loan to renovate my home and fix the roof,0
+49,126880.0,Salaried,Not Graduate,113043,598.0,planning to expand my small business and buy new equipment,0
+64,139289.0,Business,Not Graduate,40558,722.0,traveling abroad for higher education,0
+21,107052.0,Self-Employed,Not Graduate,219975,339.0,looking to consolidate credit card debt into one payment,0
+52,61087.0,Salaried,Not Graduate,113964,578.0,I need this loan to renovate my home and fix the roof,0
+58,90485.0,Salaried,Not Graduate,71408,533.0,home renovation and repair work needed urgently,0
+62,,Salaried,Graduate,236042,802.0,starting a small business selling handmade crafts,0
+39,140793.0,Salaried,Not Graduate,36303,339.0,buying a new car for daily commute,0
+26,61224.0,Business,Graduate,495268,654.0,traveling abroad for higher education,1
+32,22708.0,Self-Employed,Graduate,238125,401.0,looking to consolidate credit card debt into one payment,1
+58,,Salaried,Graduate,498151,785.0,starting a small business selling handmade crafts,1
+59,103770.0,Business,Not Graduate,441271,768.0,home renovation and repair work needed urgently,0
+49,99065.0,Salaried,Graduate,489912,,emergency funds needed for unexpected medical procedure,0
+26,22303.0,Business,Graduate,273651,779.0,want to pay off medical bills after a family emergency,0
+26,116363.0,Salaried,Graduate,214427,573.0,home renovation and repair work needed urgently,0
+42,101037.0,Self-Employed,Graduate,361346,834.0,home renovation and repair work needed urgently,0
+46,122140.0,Business,Graduate,44936,701.0,planning to expand my small business and buy new equipment,0
+22,126689.0,Salaried,Not Graduate,420896,318.0,planning to expand my small business and buy new equipment,0
+51,43613.0,Self-Employed,Not Graduate,165168,411.0,home renovation and repair work needed urgently,0
+44,43436.0,Business,Graduate,8670,521.0,planning to expand my small business and buy new equipment,0
+21,139710.0,Salaried,Graduate,122668,416.0,traveling abroad for higher education,0
+25,86688.0,Salaried,Graduate,124948,372.0,planning to expand my small business and buy new equipment,0
+40,74128.0,Self-Employed,Graduate,11992,837.0,purchasing new machinery for my shop,0
+52,53772.0,Salaried,Graduate,335947,777.0,home renovation and repair work needed urgently,1
+57,101266.0,Salaried,Not Graduate,52140,539.0,buying a new car for daily commute,0
+39,116784.0,Salaried,Graduate,424114,418.0,looking to consolidate credit card debt into one payment,1
+33,15311.0,Self-Employed,Graduate,229330,399.0,funding for my daughter wedding expenses,0
+63,89606.0,Salaried,Graduate,360528,803.0,home renovation and repair work needed urgently,0
+41,149104.0,Salaried,Graduate,173132,482.0,debt consolidation to reduce monthly payments,0
+34,52886.0,Business,Graduate,70336,306.0,want to pay off medical bills after a family emergency,0
+40,52921.0,Salaried,Not Graduate,94275,,starting a small business selling handmade crafts,0
+21,133547.0,Business,Not Graduate,324709,549.0,purchasing new machinery for my shop,0
+34,23378.0,Salaried,Not Graduate,359469,642.0,looking to consolidate credit card debt into one payment,0
+43,68665.0,Business,Not Graduate,137426,486.0,home renovation and repair work needed urgently,1
+61,76865.0,Self-Employed,Graduate,181772,807.0,want to pay off medical bills after a family emergency,0
+53,122713.0,Salaried,Not Graduate,472801,653.0,traveling abroad for higher education,0
+55,32419.0,Business,Graduate,426674,842.0,want to pay off medical bills after a family emergency,0
+44,73597.0,Salaried,Graduate,209454,501.0,looking to consolidate credit card debt into one payment,0
+25,35564.0,Salaried,Graduate,124283,658.0,buying a new car for daily commute,0
+38,121330.0,Salaried,Graduate,154170,500.0,funding for my daughter wedding expenses,0
+64,100358.0,Self-Employed,Graduate,271504,684.0,want to pay off medical bills after a family emergency,0
+22,82059.0,Salaried,Graduate,285556,710.0,emergency funds needed for unexpected medical procedure,0
+59,68045.0,Salaried,Not Graduate,96148,477.0,I need this loan to renovate my home and fix the roof,0
+51,35678.0,Salaried,Not Graduate,37587,815.0,purchasing new machinery for my shop,0
+33,139450.0,Salaried,Graduate,250173,771.0,I need this loan to renovate my home and fix the roof,0
+55,102434.0,Salaried,Graduate,399742,791.0,funding for my daughter wedding expenses,0
+57,58086.0,Salaried,Not Graduate,80470,419.0,purchasing new machinery for my shop,0
+22,70881.0,Salaried,Graduate,207135,694.0,planning to expand my small business and buy new equipment,0
+25,113034.0,Salaried,Graduate,84981,358.0,I need this loan to renovate my home and fix the roof,0
+50,112141.0,Self-Employed,Graduate,124856,358.0,home renovation and repair work needed urgently,0
+64,77248.0,Salaried,Graduate,308050,835.0,I need this loan to renovate my home and fix the roof,0
+22,55891.0,Self-Employed,Graduate,146666,384.0,traveling abroad for higher education,1
+50,104093.0,Salaried,Not Graduate,135574,,buying a new car for daily commute,0
+27,103861.0,Salaried,Not Graduate,497854,536.0,traveling abroad for higher education,0
+49,95958.0,Salaried,Not Graduate,90321,467.0,want to pay off medical bills after a family emergency,1
+48,24835.0,Salaried,Graduate,98697,340.0,planning to expand my small business and buy new equipment,1
+24,,Salaried,Not Graduate,465235,,purchasing new machinery for my shop,1
+50,97879.0,Business,Not Graduate,277352,696.0,debt consolidation to reduce monthly payments,0
+60,143258.0,Salaried,Graduate,26286,556.0,traveling abroad for higher education,0
+58,85951.0,Salaried,Graduate,215354,745.0,looking to consolidate credit card debt into one payment,0
+22,61266.0,Self-Employed,Graduate,284748,477.0,funding for my daughter wedding expenses,0
+31,90032.0,Salaried,Graduate,130329,603.0,starting a small business selling handmade crafts,0
+31,38926.0,Salaried,Graduate,276390,457.0,buying a new car for daily commute,0
+40,27243.0,Salaried,Graduate,326014,620.0,want to pay off medical bills after a family emergency,0
+27,106542.0,Salaried,Graduate,129051,374.0,funding for my daughter wedding expenses,0
+58,148134.0,Salaried,Graduate,407138,,emergency funds needed for unexpected medical procedure,0
+55,129211.0,Self-Employed,Graduate,229122,602.0,I need this loan to renovate my home and fix the roof,0
+56,93794.0,Business,Not Graduate,481913,606.0,funding for my daughter wedding expenses,0
+29,20434.0,Salaried,Graduate,48430,545.0,looking to consolidate credit card debt into one payment,0
+21,148376.0,Self-Employed,Graduate,165497,653.0,I need this loan to renovate my home and fix the roof,0
+61,75700.0,Self-Employed,Graduate,362028,581.0,planning to expand my small business and buy new equipment,0
+33,54104.0,Salaried,Not Graduate,447983,455.0,buying a new car for daily commute,0
+49,135485.0,Self-Employed,Graduate,114740,418.0,planning to expand my small business and buy new equipment,0
+61,115764.0,Self-Employed,Not Graduate,490223,656.0,funding for my daughter wedding expenses,0
+22,,Business,Graduate,100725,816.0,starting a small business selling handmade crafts,0
+21,52496.0,Business,Graduate,210980,714.0,traveling abroad for higher education,0
+21,148894.0,Salaried,Graduate,160864,651.0,planning to expand my small business and buy new equipment,0
+27,76137.0,Salaried,Graduate,215039,806.0,buying a new car for daily commute,1
+23,86740.0,Salaried,Not Graduate,451673,794.0,planning to expand my small business and buy new equipment,1
+57,116379.0,Salaried,Not Graduate,367612,578.0,buying a new car for daily commute,0
+47,104099.0,Salaried,Graduate,399250,360.0,buying a new car for daily commute,0
+64,38258.0,Business,Not Graduate,130729,648.0,debt consolidation to reduce monthly payments,0
+56,55834.0,Salaried,Graduate,473711,642.0,buying a new car for daily commute,1
+63,63760.0,Salaried,Graduate,220591,452.0,purchasing new machinery for my shop,0
+31,142917.0,Business,Graduate,327721,767.0,planning to expand my small business and buy new equipment,0
+33,111458.0,Salaried,Graduate,350371,778.0,I need this loan to renovate my home and fix the roof,0
+58,64455.0,Salaried,Not Graduate,333146,482.0,I need this loan to renovate my home and fix the roof,0
+31,114187.0,Business,Graduate,302889,562.0,funding for my daughter wedding expenses,0
+23,114698.0,Salaried,Graduate,242615,407.0,want to pay off medical bills after a family emergency,1
+50,68219.0,Salaried,Graduate,325582,398.0,planning to expand my small business and buy new equipment,0
+56,69423.0,Salaried,Graduate,453067,445.0,want to pay off medical bills after a family emergency,0
+63,135729.0,Business,Graduate,197937,501.0,purchasing new machinery for my shop,1
+61,90845.0,Salaried,Not Graduate,257884,450.0,debt consolidation to reduce monthly payments,0
+26,35184.0,Salaried,Graduate,94137,383.0,I need this loan to renovate my home and fix the roof,0
+54,112170.0,Salaried,Graduate,180754,545.0,traveling abroad for higher education,0
+58,94591.0,Salaried,Graduate,387163,642.0,want to pay off medical bills after a family emergency,0
+51,83706.0,Business,Graduate,321985,479.0,funding for my daughter wedding expenses,0
+57,112889.0,Salaried,Graduate,109517,593.0,looking to consolidate credit card debt into one payment,0
+57,137456.0,Business,Not Graduate,275339,449.0,funding for my daughter wedding expenses,0
+40,59608.0,Salaried,Not Graduate,406920,687.0,debt consolidation to reduce monthly payments,0
+22,71605.0,Salaried,Graduate,66389,656.0,home renovation and repair work needed urgently,0
+41,40581.0,Business,Not Graduate,35664,828.0,emergency funds needed for unexpected medical procedure,0
+29,102354.0,Salaried,Graduate,199399,329.0,emergency funds needed for unexpected medical procedure,0
+26,69366.0,Salaried,Graduate,329990,769.0,home renovation and repair work needed urgently,0
+26,61218.0,Business,Not Graduate,160096,487.0,want to pay off medical bills after a family emergency,0
+51,109030.0,Salaried,Not Graduate,411411,336.0,funding for my daughter wedding expenses,0
+43,70101.0,Salaried,Not Graduate,424182,679.0,planning to expand my small business and buy new equipment,0
+44,77689.0,Business,Graduate,268597,394.0,home renovation and repair work needed urgently,0
+53,74406.0,Salaried,Graduate,192527,396.0,buying a new car for daily commute,1
+45,49902.0,Salaried,Graduate,25649,,emergency funds needed for unexpected medical procedure,0
+48,31983.0,Salaried,Graduate,411669,421.0,starting a small business selling handmade crafts,0
+24,126676.0,Salaried,Not Graduate,448164,,looking to consolidate credit card debt into one payment,0
+58,27382.0,Salaried,Graduate,223982,410.0,planning to expand my small business and buy new equipment,1
+40,58858.0,Self-Employed,Graduate,260651,368.0,purchasing new machinery for my shop,1
+27,105111.0,Salaried,Graduate,377982,300.0,looking to consolidate credit card debt into one payment,1
+56,32724.0,Self-Employed,Graduate,349208,308.0,planning to expand my small business and buy new equipment,0
+53,103494.0,Salaried,Graduate,71964,560.0,looking to consolidate credit card debt into one payment,0
+23,113963.0,Salaried,Graduate,337794,538.0,traveling abroad for higher education,0
+29,104492.0,Salaried,Graduate,462701,321.0,looking to consolidate credit card debt into one payment,1
+21,56179.0,Self-Employed,Graduate,376589,492.0,purchasing new machinery for my shop,1
+32,17668.0,Salaried,Graduate,242877,450.0,buying a new car for daily commute,1
+25,134792.0,Salaried,Graduate,263964,614.0,traveling abroad for higher education,0
+52,59083.0,Business,Not Graduate,133600,847.0,emergency funds needed for unexpected medical procedure,0
+43,123675.0,Self-Employed,Graduate,332075,680.0,I need this loan to renovate my home and fix the roof,0
+64,41704.0,Salaried,Graduate,124537,805.0,starting a small business selling handmade crafts,0
+53,36925.0,Business,Graduate,174220,,buying a new car for daily commute,0
+47,120050.0,Salaried,Not Graduate,136213,418.0,want to pay off medical bills after a family emergency,0
+43,141863.0,Salaried,Not Graduate,170983,712.0,starting a small business selling handmade crafts,0
+23,131185.0,Salaried,Graduate,186528,470.0,planning to expand my small business and buy new equipment,0
+24,116418.0,Salaried,Graduate,46073,,home renovation and repair work needed urgently,0
+48,48301.0,Salaried,Graduate,360172,555.0,debt consolidation to reduce monthly payments,0
+21,138283.0,Self-Employed,Not Graduate,223291,410.0,planning to expand my small business and buy new equipment,0
+22,105159.0,Salaried,Graduate,475053,764.0,buying a new car for daily commute,0
+30,38242.0,Business,Graduate,94538,602.0,emergency funds needed for unexpected medical procedure,0
+59,32463.0,Business,Not Graduate,336173,741.0,I need this loan to renovate my home and fix the roof,0
+41,132606.0,Self-Employed,Not Graduate,93698,548.0,funding for my daughter wedding expenses,0
+52,52145.0,Self-Employed,Graduate,275847,369.0,looking to consolidate credit card debt into one payment,1
+39,118395.0,Self-Employed,Graduate,247985,674.0,I need this loan to renovate my home and fix the roof,0
+28,33718.0,Business,Graduate,227055,368.0,debt consolidation to reduce monthly payments,1
+37,52872.0,Salaried,Graduate,329082,664.0,buying a new car for daily commute,0
+25,53275.0,Salaried,Graduate,414956,529.0,debt consolidation to reduce monthly payments,0
+54,52949.0,Salaried,Not Graduate,161777,735.0,emergency funds needed for unexpected medical procedure,0
+29,106089.0,Salaried,Not Graduate,425580,778.0,traveling abroad for higher education,0
+37,138442.0,Salaried,Graduate,96501,524.0,purchasing new machinery for my shop,0
+64,137894.0,Self-Employed,Graduate,150053,785.0,emergency funds needed for unexpected medical procedure,0
+47,,Salaried,Graduate,158781,360.0,funding for my daughter wedding expenses,1
+41,42340.0,Business,Graduate,476943,359.0,buying a new car for daily commute,1
+44,144678.0,Salaried,Not Graduate,63693,846.0,debt consolidation to reduce monthly payments,0
+55,88180.0,Salaried,Graduate,200582,615.0,buying a new car for daily commute,0
+32,88705.0,Salaried,Graduate,215096,547.0,starting a small business selling handmade crafts,0
+49,109687.0,Salaried,Graduate,401038,385.0,want to pay off medical bills after a family emergency,1
+59,118827.0,Salaried,Graduate,245520,458.0,purchasing new machinery for my shop,1
+46,143644.0,Salaried,Graduate,483575,677.0,emergency funds needed for unexpected medical procedure,0
+40,93621.0,Salaried,Not Graduate,371458,751.0,looking to consolidate credit card debt into one payment,0
+27,97358.0,Salaried,Not Graduate,353310,804.0,emergency funds needed for unexpected medical procedure,0
+31,115646.0,Salaried,Graduate,377695,524.0,funding for my daughter wedding expenses,1
+62,49439.0,Salaried,Not Graduate,84967,550.0,planning to expand my small business and buy new equipment,0
+44,56541.0,Salaried,Graduate,227280,389.0,traveling abroad for higher education,0
+34,99439.0,Salaried,Not Graduate,295137,345.0,traveling abroad for higher education,0
+39,23657.0,Salaried,Graduate,108195,540.0,traveling abroad for higher education,0
+46,58266.0,Salaried,Graduate,63794,618.0,funding for my daughter wedding expenses,0
+44,111929.0,Salaried,Not Graduate,72204,357.0,looking to consolidate credit card debt into one payment,1
+51,146777.0,Self-Employed,Graduate,395625,524.0,I need this loan to renovate my home and fix the roof,0
+32,,Business,Graduate,330156,652.0,home renovation and repair work needed urgently,1
+49,68956.0,Business,Graduate,144251,745.0,looking to consolidate credit card debt into one payment,0
+40,74450.0,Salaried,Graduate,369917,,traveling abroad for higher education,0
+62,107532.0,Salaried,Graduate,349131,487.0,traveling abroad for higher education,1
+27,88504.0,Salaried,Graduate,409168,515.0,planning to expand my small business and buy new equipment,1
+27,18135.0,Self-Employed,Not Graduate,455494,,purchasing new machinery for my shop,0
+41,87797.0,Self-Employed,Graduate,441705,681.0,planning to expand my small business and buy new equipment,1
+43,69008.0,Business,Graduate,94599,450.0,buying a new car for daily commute,0
+51,109608.0,Business,Graduate,385782,676.0,buying a new car for daily commute,1
+38,133139.0,Salaried,Not Graduate,199464,386.0,purchasing new machinery for my shop,0
+61,144930.0,Self-Employed,Graduate,204545,546.0,emergency funds needed for unexpected medical procedure,0
+41,97380.0,Business,Graduate,325323,468.0,traveling abroad for higher education,0
+26,63945.0,Salaried,Graduate,303083,845.0,emergency funds needed for unexpected medical procedure,0
+26,74932.0,Business,Not Graduate,212731,319.0,debt consolidation to reduce monthly payments,0
+63,38822.0,Salaried,Not Graduate,499745,771.0,traveling abroad for higher education,0
+26,141351.0,Business,Graduate,91535,454.0,traveling abroad for higher education,0
+62,129387.0,Self-Employed,Not Graduate,52972,319.0,funding for my daughter wedding expenses,0
+33,130287.0,Salaried,Graduate,19390,663.0,funding for my daughter wedding expenses,0
+25,59296.0,Self-Employed,Graduate,408048,672.0,purchasing new machinery for my shop,0
+34,58499.0,Salaried,Graduate,206266,378.0,debt consolidation to reduce monthly payments,0
+48,130642.0,Self-Employed,Graduate,221484,321.0,purchasing new machinery for my shop,0
+39,88514.0,Self-Employed,Graduate,326358,361.0,starting a small business selling handmade crafts,0
+55,110128.0,Self-Employed,Graduate,220520,524.0,purchasing new machinery for my shop,0
+47,81126.0,Business,Graduate,289122,372.0,home renovation and repair work needed urgently,0
+38,74773.0,Salaried,Graduate,33934,686.0,home renovation and repair work needed urgently,0
+48,100347.0,Salaried,Graduate,82339,342.0,want to pay off medical bills after a family emergency,0
+63,124752.0,Salaried,Not Graduate,466358,733.0,starting a small business selling handmade crafts,0
+39,60105.0,Salaried,Not Graduate,228093,781.0,home renovation and repair work needed urgently,0
+27,124234.0,Salaried,Graduate,87856,694.0,debt consolidation to reduce monthly payments,0
+38,47967.0,Salaried,Graduate,187888,819.0,purchasing new machinery for my shop,0
+57,69381.0,Salaried,Graduate,170720,816.0,looking to consolidate credit card debt into one payment,0
+30,138210.0,Salaried,Graduate,140730,325.0,looking to consolidate credit card debt into one payment,0
+62,143851.0,Business,Graduate,150338,488.0,purchasing new machinery for my shop,0
+46,139723.0,Salaried,Graduate,365989,718.0,purchasing new machinery for my shop,0
+47,57665.0,Business,Not Graduate,57849,486.0,want to pay off medical bills after a family emergency,0
+34,128848.0,Salaried,Graduate,158277,705.0,funding for my daughter wedding expenses,0
+61,141371.0,Salaried,Graduate,236635,725.0,purchasing new machinery for my shop,0
+22,147057.0,Salaried,Graduate,272370,848.0,want to pay off medical bills after a family emergency,0
+34,17821.0,Salaried,Not Graduate,440850,481.0,debt consolidation to reduce monthly payments,0
+39,115573.0,Salaried,Graduate,461995,491.0,planning to expand my small business and buy new equipment,0
+42,149560.0,Salaried,Not Graduate,152219,313.0,want to pay off medical bills after a family emergency,0
+41,118230.0,Salaried,Graduate,271941,457.0,debt consolidation to reduce monthly payments,0
+27,46478.0,Salaried,Graduate,16065,454.0,emergency funds needed for unexpected medical procedure,1
+30,117949.0,Self-Employed,Graduate,310426,549.0,starting a small business selling handmade crafts,0
+25,29207.0,Salaried,Graduate,80686,531.0,traveling abroad for higher education,0
+46,79882.0,Business,Not Graduate,41256,771.0,looking to consolidate credit card debt into one payment,0
+36,99540.0,Salaried,Graduate,337501,725.0,starting a small business selling handmade crafts,0
+45,76621.0,Business,Not Graduate,93176,700.0,emergency funds needed for unexpected medical procedure,0
+46,109477.0,Self-Employed,Graduate,241301,302.0,home renovation and repair work needed urgently,1
+51,47430.0,Business,Not Graduate,54970,559.0,looking to consolidate credit card debt into one payment,1
+45,96839.0,Business,Not Graduate,374107,701.0,emergency funds needed for unexpected medical procedure,0
+49,102050.0,Salaried,Graduate,383582,434.0,buying a new car for daily commute,1
+46,100562.0,Salaried,Graduate,289529,,starting a small business selling handmade crafts,0
+49,54058.0,Salaried,Not Graduate,418780,699.0,traveling abroad for higher education,0
+48,56226.0,Business,Graduate,221217,736.0,funding for my daughter wedding expenses,0
+34,49804.0,Self-Employed,Not Graduate,97295,769.0,home renovation and repair work needed urgently,0
+31,77339.0,Salaried,Graduate,79910,536.0,purchasing new machinery for my shop,0
+55,94104.0,Business,Graduate,113539,519.0,debt consolidation to reduce monthly payments,0
+36,63942.0,Salaried,Graduate,104152,510.0,purchasing new machinery for my shop,0
+45,70347.0,Self-Employed,Not Graduate,164987,667.0,emergency funds needed for unexpected medical procedure,0
+29,53665.0,Self-Employed,Not Graduate,111097,530.0,looking to consolidate credit card debt into one payment,1
+39,44545.0,Salaried,Graduate,297583,520.0,purchasing new machinery for my shop,1
+44,103754.0,Self-Employed,Not Graduate,78439,392.0,emergency funds needed for unexpected medical procedure,0
+48,125167.0,Business,Not Graduate,312789,563.0,want to pay off medical bills after a family emergency,0
+44,54245.0,Salaried,Graduate,170379,430.0,looking to consolidate credit card debt into one payment,0
+36,131176.0,Salaried,Graduate,344943,588.0,looking to consolidate credit card debt into one payment,0
+63,92082.0,Salaried,Not Graduate,258896,,traveling abroad for higher education,1
+43,37639.0,Self-Employed,Graduate,453070,726.0,planning to expand my small business and buy new equipment,0
+56,64409.0,Salaried,Graduate,222739,562.0,home renovation and repair work needed urgently,0
+53,16013.0,Business,Not Graduate,151044,837.0,starting a small business selling handmade crafts,0
+45,20287.0,Business,Graduate,296613,839.0,I need this loan to renovate my home and fix the roof,0
+60,60377.0,Salaried,Not Graduate,331085,544.0,emergency funds needed for unexpected medical procedure,1
+26,76352.0,Salaried,Not Graduate,222423,719.0,debt consolidation to reduce monthly payments,1
+61,122663.0,Self-Employed,Not Graduate,282062,488.0,home renovation and repair work needed urgently,0
+58,33130.0,Self-Employed,Graduate,238078,783.0,starting a small business selling handmade crafts,0
+43,128288.0,Salaried,Graduate,156389,505.0,funding for my daughter wedding expenses,0
+53,46660.0,Salaried,Graduate,160214,442.0,planning to expand my small business and buy new equipment,0
+43,33674.0,Salaried,Graduate,454170,373.0,I need this loan to renovate my home and fix the roof,1
+32,109485.0,Business,Not Graduate,339290,763.0,funding for my daughter wedding expenses,0
+56,119535.0,Salaried,Graduate,52264,463.0,emergency funds needed for unexpected medical procedure,0
+31,96663.0,Business,Graduate,481229,747.0,I need this loan to renovate my home and fix the roof,1
+34,30620.0,Salaried,Graduate,357440,347.0,purchasing new machinery for my shop,0
+43,30571.0,Business,Graduate,29831,575.0,emergency funds needed for unexpected medical procedure,0
+57,67658.0,Salaried,Graduate,365297,535.0,looking to consolidate credit card debt into one payment,0
+37,75831.0,Salaried,Graduate,296863,541.0,purchasing new machinery for my shop,1
+42,149812.0,Business,Not Graduate,458086,392.0,want to pay off medical bills after a family emergency,0
+22,53674.0,Business,Graduate,247238,340.0,purchasing new machinery for my shop,0
+26,40999.0,Salaried,Not Graduate,261697,490.0,looking to consolidate credit card debt into one payment,0
+23,142696.0,Salaried,Not Graduate,160782,558.0,funding for my daughter wedding expenses,0
+24,35785.0,Salaried,Graduate,164203,736.0,buying a new car for daily commute,0
+59,18564.0,Salaried,Not Graduate,310871,554.0,purchasing new machinery for my shop,1
+58,72078.0,Salaried,Graduate,414731,435.0,looking to consolidate credit card debt into one payment,0
+57,69146.0,Business,Graduate,445881,444.0,purchasing new machinery for my shop,0
+23,98655.0,Salaried,Graduate,386551,636.0,funding for my daughter wedding expenses,0
+24,133494.0,Self-Employed,Graduate,306836,539.0,looking to consolidate credit card debt into one payment,0
+33,140941.0,Salaried,Not Graduate,252656,795.0,emergency funds needed for unexpected medical procedure,0
+45,54101.0,Salaried,Not Graduate,173104,541.0,home renovation and repair work needed urgently,0
+35,147410.0,Self-Employed,Not Graduate,385089,611.0,funding for my daughter wedding expenses,0
+42,,Salaried,Graduate,162481,335.0,planning to expand my small business and buy new equipment,0
+28,24401.0,Self-Employed,Graduate,137598,406.0,funding for my daughter wedding expenses,0
+53,141690.0,Salaried,Not Graduate,434593,767.0,starting a small business selling handmade crafts,0
+34,33629.0,Business,Graduate,296805,489.0,I need this loan to renovate my home and fix the roof,0
+23,94460.0,Self-Employed,Graduate,180338,531.0,I need this loan to renovate my home and fix the roof,1
+53,121749.0,Business,Graduate,433265,624.0,purchasing new machinery for my shop,0
+60,48674.0,Salaried,Graduate,481527,331.0,I need this loan to renovate my home and fix the roof,0
+21,51535.0,Salaried,Graduate,162402,,funding for my daughter wedding expenses,0
+40,79283.0,Salaried,Graduate,263101,490.0,debt consolidation to reduce monthly payments,0
+57,134454.0,Salaried,Graduate,244357,381.0,looking to consolidate credit card debt into one payment,0
+52,45186.0,Salaried,Graduate,352316,530.0,buying a new car for daily commute,0
+58,104566.0,Salaried,Graduate,475767,545.0,planning to expand my small business and buy new equipment,0
+39,76099.0,Salaried,Graduate,276521,402.0,debt consolidation to reduce monthly payments,1
+37,30099.0,Salaried,Graduate,400114,598.0,emergency funds needed for unexpected medical procedure,0
+52,110968.0,Salaried,Not Graduate,299823,710.0,traveling abroad for higher education,0
+27,127391.0,Salaried,Graduate,444084,447.0,traveling abroad for higher education,0
+31,92710.0,Salaried,Not Graduate,205271,831.0,funding for my daughter wedding expenses,0
+47,38808.0,Self-Employed,Not Graduate,195697,636.0,I need this loan to renovate my home and fix the roof,0
+50,36022.0,Salaried,Graduate,214097,725.0,funding for my daughter wedding expenses,1
+26,72171.0,Salaried,Not Graduate,498270,338.0,planning to expand my small business and buy new equipment,0
+43,83366.0,Salaried,Not Graduate,307663,722.0,starting a small business selling handmade crafts,0
+37,89544.0,Self-Employed,Graduate,80519,485.0,planning to expand my small business and buy new equipment,1
+43,47893.0,Salaried,Graduate,25242,690.0,purchasing new machinery for my shop,0
+63,82603.0,Self-Employed,Graduate,261791,742.0,emergency funds needed for unexpected medical procedure,0
+24,54835.0,Business,Not Graduate,403819,437.0,looking to consolidate credit card debt into one payment,1
+64,107631.0,Salaried,Not Graduate,242240,442.0,purchasing new machinery for my shop,0
+40,122524.0,Business,Not Graduate,282303,332.0,debt consolidation to reduce monthly payments,1
+54,103112.0,Self-Employed,Not Graduate,400223,632.0,buying a new car for daily commute,0
+39,15168.0,Salaried,Graduate,260590,725.0,planning to expand my small business and buy new equipment,0
+34,148925.0,Salaried,Not Graduate,454765,525.0,funding for my daughter wedding expenses,0
+54,18208.0,Self-Employed,Graduate,320777,388.0,emergency funds needed for unexpected medical procedure,0
+51,149921.0,Business,Not Graduate,366913,474.0,debt consolidation to reduce monthly payments,0
+27,19289.0,Salaried,Graduate,391824,521.0,looking to consolidate credit card debt into one payment,0
+52,84722.0,Salaried,Graduate,315274,803.0,home renovation and repair work needed urgently,0
+54,29306.0,Self-Employed,Not Graduate,29782,368.0,looking to consolidate credit card debt into one payment,1
+38,27851.0,Salaried,Not Graduate,216577,488.0,want to pay off medical bills after a family emergency,0
+61,107258.0,Self-Employed,Graduate,75035,650.0,buying a new car for daily commute,0
+49,113258.0,Salaried,Graduate,257611,430.0,planning to expand my small business and buy new equipment,0
+35,30961.0,Self-Employed,Graduate,75867,786.0,funding for my daughter wedding expenses,0
+21,146849.0,Business,Not Graduate,257103,,funding for my daughter wedding expenses,0
+50,58262.0,Self-Employed,Graduate,175200,,looking to consolidate credit card debt into one payment,0
+30,57974.0,Self-Employed,Graduate,15082,,debt consolidation to reduce monthly payments,0
+54,55091.0,Self-Employed,Graduate,66812,715.0,looking to consolidate credit card debt into one payment,0
+44,77263.0,Business,Graduate,254007,674.0,home renovation and repair work needed urgently,1
+41,39007.0,Business,Graduate,44014,402.0,home renovation and repair work needed urgently,0
+28,,Salaried,Graduate,428705,327.0,emergency funds needed for unexpected medical procedure,0
+52,43347.0,Self-Employed,Not Graduate,380554,490.0,looking to consolidate credit card debt into one payment,0
+28,21941.0,Salaried,Not Graduate,356090,372.0,debt consolidation to reduce monthly payments,0
+39,,Business,Not Graduate,90198,460.0,want to pay off medical bills after a family emergency,1
+57,105755.0,Self-Employed,Graduate,398875,651.0,looking to consolidate credit card debt into one payment,0
+61,118017.0,Salaried,Graduate,319172,623.0,traveling abroad for higher education,1
+64,62700.0,Salaried,Not Graduate,198290,415.0,funding for my daughter wedding expenses,0
+63,58705.0,Salaried,Not Graduate,5205,309.0,home renovation and repair work needed urgently,0
+45,121307.0,Self-Employed,Graduate,266841,424.0,I need this loan to renovate my home and fix the roof,0
+29,106960.0,Salaried,Not Graduate,398973,550.0,emergency funds needed for unexpected medical procedure,1
+57,127336.0,Salaried,Not Graduate,21574,728.0,traveling abroad for higher education,0
+56,137323.0,Business,Not Graduate,31052,500.0,home renovation and repair work needed urgently,0
+64,125866.0,Self-Employed,Not Graduate,194583,457.0,starting a small business selling handmade crafts,1
+49,141425.0,Salaried,Graduate,258229,603.0,traveling abroad for higher education,0
+27,71249.0,Salaried,Graduate,239835,339.0,looking to consolidate credit card debt into one payment,0
+43,68280.0,Business,Graduate,215970,423.0,funding for my daughter wedding expenses,0
+40,58408.0,Self-Employed,Graduate,131328,320.0,I need this loan to renovate my home and fix the roof,1
+58,46755.0,Self-Employed,Not Graduate,34632,589.0,home renovation and repair work needed urgently,0
+38,116090.0,Salaried,Graduate,20464,543.0,home renovation and repair work needed urgently,0
+35,111450.0,Salaried,Graduate,53910,620.0,debt consolidation to reduce monthly payments,0
+24,123187.0,Salaried,Not Graduate,346752,639.0,home renovation and repair work needed urgently,0
+57,37597.0,Self-Employed,Not Graduate,394059,517.0,planning to expand my small business and buy new equipment,1
+54,81319.0,Salaried,Not Graduate,220368,777.0,emergency funds needed for unexpected medical procedure,0
+22,44964.0,Salaried,Graduate,43322,805.0,debt consolidation to reduce monthly payments,0
+40,135559.0,Self-Employed,Not Graduate,210760,360.0,want to pay off medical bills after a family emergency,0
+42,51100.0,Business,Graduate,492892,806.0,buying a new car for daily commute,0
+41,34427.0,Self-Employed,Graduate,128743,408.0,traveling abroad for higher education,0
+61,91931.0,Salaried,Graduate,248101,436.0,funding for my daughter wedding expenses,0
+27,133674.0,Salaried,Graduate,271226,591.0,debt consolidation to reduce monthly payments,0
+34,138623.0,Salaried,Not Graduate,168318,316.0,starting a small business selling handmade crafts,0
+28,27972.0,Salaried,Graduate,221823,500.0,emergency funds needed for unexpected medical procedure,0
+31,58995.0,Salaried,Graduate,238511,407.0,emergency funds needed for unexpected medical procedure,1
+60,35725.0,Salaried,Not Graduate,239622,565.0,emergency funds needed for unexpected medical procedure,0
+62,56561.0,Self-Employed,Not Graduate,360252,748.0,debt consolidation to reduce monthly payments,0
+22,87068.0,Business,Graduate,292531,808.0,traveling abroad for higher education,0
+48,52877.0,Business,Not Graduate,31433,416.0,looking to consolidate credit card debt into one payment,0
+31,24114.0,Salaried,Not Graduate,8130,599.0,purchasing new machinery for my shop,0
+29,83854.0,Salaried,Not Graduate,208294,560.0,emergency funds needed for unexpected medical procedure,0
+33,22128.0,Salaried,Not Graduate,454309,528.0,emergency funds needed for unexpected medical procedure,0
+29,45603.0,Salaried,Not Graduate,23262,647.0,looking to consolidate credit card debt into one payment,0
+42,15070.0,Salaried,Not Graduate,40188,844.0,buying a new car for daily commute,1
+64,26720.0,Salaried,Graduate,341233,522.0,emergency funds needed for unexpected medical procedure,0
+46,73902.0,Self-Employed,Graduate,228207,335.0,funding for my daughter wedding expenses,0
+52,129846.0,Salaried,Graduate,119162,803.0,looking to consolidate credit card debt into one payment,0
+42,119574.0,Business,Not Graduate,107649,812.0,debt consolidation to reduce monthly payments,0
+21,28342.0,Salaried,Graduate,334178,477.0,funding for my daughter wedding expenses,1
+24,19703.0,Salaried,Not Graduate,264272,575.0,emergency funds needed for unexpected medical procedure,0
+32,60641.0,Salaried,Graduate,320923,774.0,I need this loan to renovate my home and fix the roof,0
+31,103054.0,Salaried,Graduate,143713,577.0,I need this loan to renovate my home and fix the roof,1
+57,115808.0,Salaried,Graduate,265553,564.0,traveling abroad for higher education,0
+58,126122.0,Business,Graduate,430703,807.0,planning to expand my small business and buy new equipment,0
+58,61197.0,Salaried,Graduate,161709,755.0,debt consolidation to reduce monthly payments,0
+49,37680.0,Salaried,Graduate,201198,579.0,traveling abroad for higher education,0
+45,18556.0,Self-Employed,Not Graduate,86052,388.0,buying a new car for daily commute,1
+49,34826.0,Salaried,Graduate,321184,541.0,traveling abroad for higher education,1
+38,23796.0,Self-Employed,Graduate,21092,672.0,buying a new car for daily commute,0
+50,131208.0,Salaried,Graduate,128195,449.0,purchasing new machinery for my shop,0
+55,51235.0,Business,Graduate,357964,595.0,want to pay off medical bills after a family emergency,0
+54,126121.0,Salaried,Graduate,14606,662.0,buying a new car for daily commute,0
+48,89676.0,Salaried,Not Graduate,494598,346.0,funding for my daughter wedding expenses,1
+23,87757.0,Self-Employed,Not Graduate,205056,613.0,debt consolidation to reduce monthly payments,0
+52,76397.0,Business,Graduate,202357,705.0,I need this loan to renovate my home and fix the roof,1
+37,125591.0,Salaried,Graduate,270560,417.0,debt consolidation to reduce monthly payments,0
+53,20865.0,Self-Employed,Graduate,321395,601.0,I need this loan to renovate my home and fix the roof,0
+44,27522.0,Salaried,Graduate,232475,690.0,looking to consolidate credit card debt into one payment,0
+59,72157.0,Salaried,Not Graduate,442703,324.0,emergency funds needed for unexpected medical procedure,0
+35,68255.0,Salaried,Graduate,481197,654.0,planning to expand my small business and buy new equipment,0
+61,88655.0,Self-Employed,Not Graduate,104173,442.0,buying a new car for daily commute,0
+58,114602.0,Salaried,Graduate,354885,518.0,purchasing new machinery for my shop,0
+35,94318.0,Self-Employed,Graduate,153951,656.0,debt consolidation to reduce monthly payments,0
+42,,Salaried,Graduate,497856,302.0,I need this loan to renovate my home and fix the roof,0
+44,59184.0,Business,Graduate,130391,309.0,emergency funds needed for unexpected medical procedure,0
+54,116564.0,Business,Not Graduate,151054,545.0,emergency funds needed for unexpected medical procedure,0
+51,42198.0,Salaried,Graduate,358548,822.0,I need this loan to renovate my home and fix the roof,0
+58,83064.0,Salaried,Not Graduate,395581,303.0,emergency funds needed for unexpected medical procedure,0
+37,87736.0,Salaried,Not Graduate,68649,733.0,starting a small business selling handmade crafts,0
+43,116285.0,Business,Graduate,280001,341.0,home renovation and repair work needed urgently,0
+39,111437.0,Salaried,Graduate,176108,568.0,looking to consolidate credit card debt into one payment,0
+61,77731.0,Salaried,Graduate,307821,536.0,looking to consolidate credit card debt into one payment,0
+34,56737.0,Salaried,Graduate,280581,557.0,home renovation and repair work needed urgently,1
+46,64667.0,Self-Employed,Not Graduate,492997,345.0,home renovation and repair work needed urgently,0
+26,70564.0,Salaried,Graduate,467165,714.0,planning to expand my small business and buy new equipment,0
+58,44590.0,Salaried,Not Graduate,328723,451.0,want to pay off medical bills after a family emergency,1
+37,99429.0,Business,Graduate,341310,724.0,emergency funds needed for unexpected medical procedure,0
+35,43131.0,Salaried,Graduate,449914,660.0,debt consolidation to reduce monthly payments,0
+46,102571.0,Business,Not Graduate,95827,603.0,want to pay off medical bills after a family emergency,0
+42,116451.0,Salaried,Graduate,364246,469.0,want to pay off medical bills after a family emergency,0
+58,144848.0,Salaried,Not Graduate,387178,658.0,debt consolidation to reduce monthly payments,0
+44,31052.0,Business,Graduate,68056,848.0,home renovation and repair work needed urgently,0
+43,117563.0,Self-Employed,Not Graduate,441248,807.0,traveling abroad for higher education,0
+25,26607.0,Self-Employed,Not Graduate,351214,803.0,debt consolidation to reduce monthly payments,0
+21,60528.0,Salaried,Not Graduate,176830,420.0,purchasing new machinery for my shop,0
+38,38799.0,Salaried,Graduate,244736,621.0,want to pay off medical bills after a family emergency,1
+64,36908.0,Salaried,Not Graduate,247351,518.0,looking to consolidate credit card debt into one payment,1
+61,38671.0,Salaried,Graduate,459805,831.0,want to pay off medical bills after a family emergency,0
+48,20931.0,Salaried,Not Graduate,484775,822.0,I need this loan to renovate my home and fix the roof,0
+48,126119.0,Salaried,Graduate,404383,777.0,debt consolidation to reduce monthly payments,0
+38,23252.0,Salaried,Graduate,327843,389.0,emergency funds needed for unexpected medical procedure,0
+28,68798.0,Salaried,Graduate,56546,475.0,planning to expand my small business and buy new equipment,0
+21,109386.0,Salaried,Graduate,457837,691.0,want to pay off medical bills after a family emergency,0
+35,148702.0,Salaried,Graduate,71288,712.0,want to pay off medical bills after a family emergency,0
+34,130250.0,Business,Not Graduate,87570,492.0,funding for my daughter wedding expenses,0
+29,33523.0,Self-Employed,Graduate,39457,375.0,buying a new car for daily commute,0
+32,148344.0,Salaried,Not Graduate,474135,375.0,looking to consolidate credit card debt into one payment,0
+22,103227.0,Self-Employed,Graduate,249156,676.0,purchasing new machinery for my shop,0
+47,39241.0,Business,Not Graduate,121804,549.0,want to pay off medical bills after a family emergency,0
+61,75578.0,Salaried,Not Graduate,44982,570.0,starting a small business selling handmade crafts,0
+51,138914.0,Salaried,Graduate,208936,748.0,buying a new car for daily commute,0
+40,68043.0,Salaried,Not Graduate,363220,309.0,funding for my daughter wedding expenses,1
+39,39791.0,Salaried,Not Graduate,497307,714.0,debt consolidation to reduce monthly payments,0
+34,133136.0,Self-Employed,Not Graduate,278417,450.0,purchasing new machinery for my shop,1
+27,143651.0,Business,Graduate,305530,812.0,I need this loan to renovate my home and fix the roof,0
+47,146705.0,Salaried,Graduate,418763,825.0,buying a new car for daily commute,0
+45,144020.0,Self-Employed,Not Graduate,451406,576.0,planning to expand my small business and buy new equipment,0
+21,132835.0,Salaried,Graduate,143498,473.0,buying a new car for daily commute,0
+39,76356.0,Self-Employed,Not Graduate,495987,428.0,emergency funds needed for unexpected medical procedure,1
+33,40960.0,Self-Employed,Graduate,261974,399.0,funding for my daughter wedding expenses,0
+28,98316.0,Salaried,Not Graduate,465419,849.0,looking to consolidate credit card debt into one payment,0
+51,44807.0,Salaried,Graduate,63152,403.0,looking to consolidate credit card debt into one payment,0
+44,78875.0,Self-Employed,Graduate,53226,545.0,looking to consolidate credit card debt into one payment,1
+48,103569.0,Business,Not Graduate,442881,563.0,looking to consolidate credit card debt into one payment,0
+52,142788.0,Salaried,Not Graduate,337921,673.0,funding for my daughter wedding expenses,0
+64,54026.0,Salaried,Not Graduate,91627,,home renovation and repair work needed urgently,0
+56,49008.0,Salaried,Not Graduate,447986,606.0,planning to expand my small business and buy new equipment,0
+48,114187.0,Self-Employed,Graduate,55669,716.0,I need this loan to renovate my home and fix the roof,0
